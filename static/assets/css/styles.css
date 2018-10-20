@@ -442,7 +442,7 @@ body {
         }
 
     .bgo-logo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bgo_logo.html);
+        background-image: url(/assets/img/sites/bgo/bgo_logo.html);
         background-repeat: no-repeat;
         background-position: left top;
         height: 105px;
@@ -779,14 +779,14 @@ body {
         width: 34px;
         height: 34px;
         float: left;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/form-confirmation-check.jpg);
+        background-image: url(/assets/img/sites/bgo/form-confirmation-check.jpg);
     }
 
     .form-error-x {
         width: 34px;
         height: 34px;
         float: left;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/form-error-check.jpg);
+        background-image: url(/assets/img/sites/bgo/form-error-check.jpg);
     }
 
     /* Home ======================================================================================================================================================== */
@@ -812,7 +812,7 @@ body {
 .hm_top .laptop
 {
 	height: 936px;
-	background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bgo_laptop.png);
+	background-image: url(/assets/img/sites/bgo/bgo_laptop.png);
 	background-position: 50% 30px;
 	background-repeat: no-repeat;
 	position: absolute;
@@ -1107,7 +1107,7 @@ body {
     }
 
     .banner-service {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Service-Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/HM_Service-Background_a.jpg);
         width: 100%;
         height: 545px;
         background-position: center center;
@@ -1127,7 +1127,7 @@ body {
         }
 
     .banner-product {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Products-Background.jpg);
+        background-image: url(/assets/img/sites/bgo/HM_Products-Background.jpg);
         width: 100%;
         height: 545px;
         background-position: center center;
@@ -1142,7 +1142,7 @@ body {
     }
 
     .banner-education {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Education-Background_b.jpg);
+        background-image: url(/assets/img/sites/bgo/HM_Education-Background_b.jpg);
         width: 100%;
         height: 545px;
         background-position: center center;
@@ -1161,7 +1161,7 @@ body {
         }
 
     .banner-technology {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/banner-technology_v2.jpg);
+        background-image: url(/assets/img/sites/bgo/banner-technology_v2.jpg);
         width: 100%;
         height: 545px;
         background-position: center center;
@@ -1180,7 +1180,7 @@ body {
         }
 
           .banner-main {
-      background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Main_1.jpg);
+      background-image: url(/assets/img/sites/bgo/HM_Main_1.jpg);
        /*  background-image: url(https://content.backgroundsonline.com/images/sites/bgo/HM_Compliance_1.jpg); */
         width: 100%;
         height: 545px;
@@ -1214,7 +1214,7 @@ body {
 }
 
     .banner-compliance {
-      background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Compliance-Background.jpg);
+      background-image: url(/assets/img/sites/bgo/HM_Compliance-Background.jpg);
        /*  background-image: url(https://content.backgroundsonline.com/images/sites/bgo/HM_Compliance_1.jpg); */
         width: 100%;
         height: 545px;
@@ -1483,7 +1483,7 @@ body {
         display:block;
         vertical-align:top;
         background-position:center center;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/quote_area_background.jpg);
+        background-image: url(/assets/img/sites/bgo/quote_area_background.jpg);
         background-repeat:no-repeat;
         background-size: cover;
     }
@@ -1587,7 +1587,7 @@ display: table-cell;
         padding: 30px 0px 20px 0px;
     }
     .hm_promo_bottom {
-        background-image: url('../../content.backgroundsonline.com/images/email/bgo/hrop.png');
+        background-image: url('/assets/img/email/bgo/hrop.png');
         background-size: 160px;
         background-repeat: no-repeat;
         background-position:right;
@@ -1675,7 +1675,7 @@ display: table-cell;
     }
 
         .unslider-arrow.next {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/arrow_next.png);
+            background-image: url(/assets/img/sites/bgo/arrow_next.png);
             background-repeat: no-repeat;
             float: right;
             overflow: hidden;
@@ -1688,7 +1688,7 @@ display: table-cell;
     }
 
     .unslider-arrow.prev {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/arrow_prev.png);
+        background-image: url(/assets/img/sites/bgo/arrow_prev.png);
         background-repeat: no-repeat;
         overflow: hidden;
         background-position: 0px 0px;
@@ -1852,7 +1852,7 @@ display: table-cell;
 
 
     #products .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Products_b.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Products_b.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -2157,7 +2157,7 @@ display: table-cell;
         padding-bottom: 3px;
         padding-top: 3px;
         color: #000;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/product_check_b.png);
+        background-image: url(/assets/img/sites/bgo/product_check_b.png);
         background-repeat: no-repeat;
         background-position: 6px center;
         padding-left: 26px;
@@ -2174,7 +2174,7 @@ display: table-cell;
         padding-bottom: 10px;
         padding-top: 10px;
         color: #000;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/product_check_b.png);
+        background-image: url(/assets/img/sites/bgo/product_check_b.png);
         background-repeat: no-repeat;
         background-position: 6px 12px;
         padding-left: 26px;
@@ -2689,7 +2689,7 @@ display: table-cell;
         width: 80px;
         height: 60px;
         display: block;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/product_arrow_left.png);
+        background-image: url(/assets/img/sites/bgo/product_arrow_left.png);
         background-repeat: no-repeat;
         background-position: 30px center;
         -webkit-transition: all 0.3s ease-in-out;
@@ -2709,7 +2709,7 @@ display: table-cell;
         width: 80px;
         height: 60px;
         display: block;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/product_arrow_right.png);
+        background-image: url(/assets/img/sites/bgo/product_arrow_right.png);
         background-repeat: no-repeat;
         background-position: 0px center;
         -webkit-transition: all 0.3s ease-in-out;
@@ -2879,19 +2879,19 @@ display: table-cell;
     }
 
     .main_criminalreports {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_Criminals.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_Criminals.jpg);
     }
 
     .main_verifications {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_Verifications.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_Verifications.jpg);
     }
 
     .main_additionalreports {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_AdditionalReports.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_AdditionalReports.jpg);
     }
 
     .main_internationalreports {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_International.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_International.jpg);
     }
 
 
@@ -2924,7 +2924,7 @@ display: table-cell;
 		height: 200px;
 	}
 
-	.main_statelaws { background-image: url(../../content.backgroundsonline.com/images/sites/bgo/statelaws_top_photo.jpg); }
+	.main_statelaws { background-image: url(/assets/img/sites/bgo/statelaws_top_photo.jpg); }
 
 	.statelaws_main-area-content
 	{
@@ -3295,7 +3295,7 @@ path{
 
 
     #solutionsbyindustry .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Solutions_b.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Solutions_b.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -3316,68 +3316,68 @@ path{
     }
 
     .sbi_background_health {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Medical_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Medical_Background.jpg);
     }
 
     .sbi_background_construction {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Construction_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Construction_Background.jpg);
     }
 
     .sbi_background_education {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Education_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Education_Background.jpg);
     }
 
     .sbi_background_financial {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Financial_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Financial_Background.jpg);
     }
 
 
     .sbi_background_government {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Government_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Government_Background.jpg);
     }
 
     .sbi_background_smallbusiness {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Smallbusiness_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Smallbusiness_Background.jpg);
     }
 
     .sbi_background_ondemand {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Ondemand_Background1b26.jpg?v2);
+        background-image: url(/assets/img/sites/bgo/IS_Ondemand_Background1b26.jpg?v2);
     }
 
     .sbi_background_realestate {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Realestate_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Realestate_Background.jpg);
     }
 
     .sbi_background_notaries {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Notary_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Notary_Background.jpg);
     }
 
     .sbi_background_manufacturing {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Manufacturing_Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Manufacturing_Background_a.jpg);
     }
 
     .sbi_background_transportation {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Transportation_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Transportation_Background.jpg);
     }
 
     .sbi_background_nonprofit {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Volunteer_Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Volunteer_Background_a.jpg);
     }
 
     .sbi_background_staffing {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Staffing_Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Staffing_Background_a.jpg);
     }
 
     .sbi_background_technology {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Technology_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Technology_Background.jpg);
     }
 
     .sbi_background_retail {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Retail_Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Retail_Background_a.jpg);
     }
 
     .sbi_background_insurance {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Insurance_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Insurance_Background.jpg);
     }
 
 
@@ -3716,7 +3716,7 @@ path{
 
 
     .sbi_product_col2 li, .sbi_product_col2b li {
-        list-style-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_checkmark.gif);
+        list-style-image: url(/assets/img/sites/bgo/sbi_checkmark.gif);
         background-repeat: no-repeat;
         background-position: left center;
         font-size: 17px;
@@ -3838,7 +3838,7 @@ path{
     }
 
     .sbi_fcra {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_fcra_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_fcra_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -3887,7 +3887,7 @@ path{
     .sbi_faq {
         width: 100%;
         min-height: 404px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_faq_back.png);
+        background-image: url(/assets/img/sites/bgo/sbi_faq_back.png);
         background-repeat: repeat-y;
         background-position: center top;
         vertical-align: top;
@@ -3905,7 +3905,7 @@ path{
         height: auto;
         background-color: #FFF;
         vertical-align: top;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_faq_back_bulb.png);
+        background-image: url(/assets/img/sites/bgo/sbi_faq_back_bulb.png);
         background-repeat: no-repeat;
         background-position: left top;
         display: inline-block;
@@ -3981,7 +3981,7 @@ path{
         width: 100%;
         height: 367px;
         display: inline-block;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_bottom_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_bottom_background.jpg);
         vertical-align: top;
         background-size: cover;
         background-repeat: no-repeat;
@@ -4142,7 +4142,7 @@ path{
     }
 
     #technology .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Technology.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Technology.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -4433,7 +4433,7 @@ path{
     /* SOC2 ============================================ */
 
     #soc2 .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_SOC.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_SOC.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -4462,7 +4462,7 @@ path{
     }
 
     .soc2_middle {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/soc2_middle_background.jpg);
+        background-image: url(/assets/img/sites/bgo/soc2_middle_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -4510,7 +4510,7 @@ path{
 
     /* WHY US ============================================ */
     #why-us .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_background.jpg);
+        background-image: url(/assets/img/sites/bgo/whyus_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -4555,7 +4555,7 @@ path{
     .why-bluearea {
         display: table;
         height: 250px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_fcra_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_fcra_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -4585,7 +4585,7 @@ path{
     .howourprocessworks {
         width: 100%;
         /* height: 630px; */
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_fcra_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_fcra_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -4793,52 +4793,52 @@ path{
     }
 
     #step_1 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_1.png);
+        background-image: url(/assets/img/sites/bgo/whyus_chart_1.png);
         width: 248px;
         height: 134px;
         display: block;
     }
 
         #step_1:hover {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_1_hover.png);
+            background-image: url(/assets/img/sites/bgo/whyus_chart_1_hover.png);
         }
 
     #step_2 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_2.png);
+        background-image: url(/assets/img/sites/bgo/whyus_chart_2.png);
         width: 289px;
         height: 134px;
         display: block;
     }
 
         #step_2:hover {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_2_hover.png);
+            background-image: url(/assets/img/sites/bgo/whyus_chart_2_hover.png);
         }
 
     #step_3 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_3.png);
+        background-image: url(/assets/img/sites/bgo/whyus_chart_3.png);
         width: 318px;
         height: 134px;
         display: block;
     }
 
         #step_3:hover {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_3_hover.png);
+            background-image: url(/assets/img/sites/bgo/whyus_chart_3_hover.png);
         }
 
     #step_4 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_4.png);
+        background-image: url(/assets/img/sites/bgo/whyus_chart_4.png);
         width: 288px;
         height: 134px;
         display: block;
     }
 
         #step_4:hover {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_4_hover.png);
+            background-image: url(/assets/img/sites/bgo/whyus_chart_4_hover.png);
         }
 
     .step_0, .step_1, .step_2, .step_3, .step_4, .step_5 {
         border: 2px solid #999;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_fcra_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_fcra_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -4850,7 +4850,7 @@ path{
 
     /* RESURCE ============================================ */
     #resources .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Resources.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Resources.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -5177,7 +5177,7 @@ path{
 
     /* SIGN UP ============================================ */
     #signup .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/signup-background.jpg);
+        background-image: url(/assets/img/sites/bgo/signup-background.jpg);
         height: 626px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -5292,7 +5292,7 @@ path{
 
 
     #contactus .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Products_b.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Products_b.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -5525,7 +5525,7 @@ path{
     select.form-dropdown1 {
         overflow: hidden !important;
         border: 1px #929292 solid !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon.png) !important;
         background-repeat: no-repeat !important;
         background-position: right center !important;
         cursor: pointer !important;
@@ -5547,7 +5547,7 @@ path{
     .form-dropdown1b {
         overflow: hidden !important;
         border: 1px #929292 solid !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon.png) !important;
         background-repeat: no-repeat !important;
         background-position: right !important;
         cursor: pointer !important;
@@ -5569,7 +5569,7 @@ path{
     .form-dropdown1 {
         overflow: hidden !important;
         border: 1px #929292 solid !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon.png) !important;
         background-repeat: no-repeat !important;
         background-position: right !important;
         cursor: pointer !important;
@@ -5726,7 +5726,7 @@ path{
 
     /* Thank You ============================================ */
     #thankyou .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/signup-background.jpg);
+        background-image: url(/assets/img/sites/bgo/signup-background.jpg);
         height: 510px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -5861,7 +5861,7 @@ path{
 
     /* Free Demo ============================================ */
     #freedemo .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/background_freedemo.jpg);
+        background-image: url(/assets/img/sites/bgo/background_freedemo.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -6058,7 +6058,7 @@ path{
     }
 
     #dispute_thankyou .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/dispute_background.jpg);
+        background-image: url(/assets/img/sites/bgo/dispute_background.jpg);
         height: 510px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -6124,7 +6124,7 @@ path{
 
     /*Privacy Policy ------------------*/
     #privacy .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/background_privacy.jpg);
+        background-image: url(/assets/img/sites/bgo/background_privacy.jpg);
         height: 426px;
         background-repeat: no-repeat;
         background-position: center bottom;
@@ -6392,7 +6392,7 @@ path{
     /* SignUp Main Pages ===================*/
 
     #createaccount_main .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main-Top_banner_filler.jpg);
+        background-image: url(/assets/img/sites/bgo/Main-Top_banner_filler.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -6529,7 +6529,7 @@ path{
     }
 
     #CreateAccount .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_background_main.jpg);
+        background-image: url(/assets/img/sites/bgo/su_background_main.jpg);
         height: 136px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -6538,7 +6538,7 @@ path{
     }
 
     #BusinessDetails .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_background_main.jpg);
+        background-image: url(/assets/img/sites/bgo/su_background_main.jpg);
         height: 136px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -6547,7 +6547,7 @@ path{
     }
 
     #ServiceAgreement .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_background_main.jpg);
+        background-image: url(/assets/img/sites/bgo/su_background_main.jpg);
         height: 136px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -6556,7 +6556,7 @@ path{
     }
 
     #Signature .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_background_main.jpg);
+        background-image: url(/assets/img/sites/bgo/su_background_main.jpg);
         height: 136px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -6731,7 +6731,7 @@ path{
     }
 
     .su_field_drop_1 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon1.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon1.png) !important;
         background-repeat: no-repeat !important;
         background-size: 20px;
         font-family: "Helvetica Neue", sans-serif !important;
@@ -6741,7 +6741,7 @@ path{
 
     .su_field_drop_2 {
         overflow: hidden !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon1.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon1.png) !important;
         background-repeat: no-repeat !important;
         cursor: pointer !important;
         background-size: 20px;
@@ -6752,7 +6752,7 @@ path{
 
     .su_field_drop_3 {
         overflow: hidden !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon1.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon1.png) !important;
         background-repeat: no-repeat !important;
         cursor: pointer !important;
         background-size: 20px;
@@ -6763,7 +6763,7 @@ path{
 
     .su_field_drop_4 {
         overflow: hidden !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon1.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon1.png) !important;
         background-repeat: no-repeat !important;
         cursor: pointer !important;
         width: 100px !important;
@@ -6829,7 +6829,7 @@ path{
     .cc_visa_off {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_visa_no.png);
+        background-image: url(/assets/img/sites/bgo/cc_visa_no.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -6840,7 +6840,7 @@ path{
     .cc_visa_on {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_visa_yes.png);
+        background-image: url(/assets/img/sites/bgo/cc_visa_yes.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -6852,7 +6852,7 @@ path{
     .cc_mastercard_off {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_mastercard_no.png);
+        background-image: url(/assets/img/sites/bgo/cc_mastercard_no.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -6863,7 +6863,7 @@ path{
     .cc_mastercard_on {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_mastercard_yes.png);
+        background-image: url(/assets/img/sites/bgo/cc_mastercard_yes.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -6875,7 +6875,7 @@ path{
     .cc_amex_off {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_amex_no.png);
+        background-image: url(/assets/img/sites/bgo/cc_amex_no.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -6886,7 +6886,7 @@ path{
     .cc_amex_on {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_amex_yes.png);
+        background-image: url(/assets/img/sites/bgo/cc_amex_yes.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -6898,7 +6898,7 @@ path{
     .cc_discover_off {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_discover_no.png);
+        background-image: url(/assets/img/sites/bgo/cc_discover_no.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -6909,7 +6909,7 @@ path{
     .cc_discover_on {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_discover_yes.png);
+        background-image: url(/assets/img/sites/bgo/cc_discover_yes.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -6922,7 +6922,7 @@ path{
     }
 
     .password_tooshort {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_1.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_1.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -6932,7 +6932,7 @@ path{
     }
 
     .password_weak {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_2.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_2.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -6942,7 +6942,7 @@ path{
     }
 
     .password_fair {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_3.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_3.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -6952,7 +6952,7 @@ path{
     }
 
     .password_good {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_4.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_4.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -6962,7 +6962,7 @@ path{
     }
 
     .password_strong {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_5.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_5.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -7065,7 +7065,7 @@ path{
         width: 680px;
         height: 140px;
         border: 1px solid #929292;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_signature_back.png);
+        background-image: url(/assets/img/sites/bgo/su_signature_back.png);
         background-repeat: no-repeat;
         background-position: center 80px;
     }
@@ -7197,7 +7197,7 @@ path{
 
 
     #napbs .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_SOC.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_SOC.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -7270,7 +7270,7 @@ path{
     }
 
     .langingpage_criminal_photo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Criminal_Landing_Background_2.jpg);
+        background-image: url(/assets/img/sites/bgo/Criminal_Landing_Background_2.jpg);
     }
 
     #langingpage_criminal .main-area-content {
@@ -7401,7 +7401,7 @@ path{
     }
 
     .langingpage_education_photo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Landingpage_topbanner_education.jpg);
+        background-image: url(/assets/img/sites/bgo/Landingpage_topbanner_education.jpg);
     }
 
     #langingpage_education .main-area-content {
@@ -7537,7 +7537,7 @@ path{
     }
 
     .langingpage_employment_photo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Landingpage_topbanner_employment.jpg);
+        background-image: url(/assets/img/sites/bgo/Landingpage_topbanner_employment.jpg);
     }
 
     #langingpage_employment .main-area-content {
@@ -7664,7 +7664,7 @@ path{
     /*BGO20 Landing page====================================*/
 
     .langingpage_bgo20_photo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Landingpage_topbanner_BGO20.jpg);
+        background-image: url(/assets/img/sites/bgo/Landingpage_topbanner_BGO20.jpg);
         background-repeat: no-repeat;
         background-position: center bottom;
         background-size: cover;
@@ -7753,7 +7753,7 @@ path{
     }
 
     .bgo20_centerglobe {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/BGO20Landing_centerglobe_a.jpg);
+        background-image: url(/assets/img/sites/bgo/BGO20Landing_centerglobe_a.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -7838,7 +7838,7 @@ path{
 	height: 355px;
 	display: inline-block;
 	vertical-align: top;
-	background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cm_background_top.jpg);
+	background-image: url(/assets/img/sites/bgo/cm_background_top.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -8168,7 +8168,7 @@ width:100%;
 	height: 355px;
 	display: inline-block;
 	vertical-align: top;
-	background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_background_top.jpg);
+	background-image: url(/assets/img/sites/bgo/bs_background_top.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -8287,7 +8287,7 @@ display: block;
     height: 50px;
     width: 100%;
     max-width: 280px;
-    background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_grey_icon_spacer_1.png);
+    background-image: url(/assets/img/sites/bgo/bs_grey_icon_spacer_1.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -8310,7 +8310,7 @@ display: block;
     height: 50px;
     width: 100%;
     max-width: 275px;
-    background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_grey_icon_spacer_2.png);
+    background-image: url(/assets/img/sites/bgo/bs_grey_icon_spacer_2.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100% auto;
@@ -8347,7 +8347,7 @@ display: block;
         height: 604px;
         margin-left: -230px;
         pointer-events: none;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_peoplescreen_1.png);
+        background-image: url(/assets/img/sites/bgo/bs_peoplescreen_1.png);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: 100% auto;
@@ -8362,11 +8362,11 @@ display: block;
     }
 
     .bs_peoplescreen_laptop_2 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_peoplescreen_2.png) !important;
+        background-image: url(/assets/img/sites/bgo/bs_peoplescreen_2.png) !important;
     }
 
     .bs_peoplescreen_laptop_3 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_peoplescreen_3.png) !important;
+        background-image: url(/assets/img/sites/bgo/bs_peoplescreen_3.png) !important;
     }
 
     .bs_peoplescreen_copy {
@@ -8426,7 +8426,7 @@ font-size: 34px;
         height: 426px;
         margin-left: 420px;
         pointer-events: none;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_yourteam_1.png);
+        background-image: url(/assets/img/sites/bgo/bs_yourteam_1.png);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: 100% auto;
@@ -8441,7 +8441,7 @@ font-size: 34px;
     }
 
     .bs_yourteam_laptop_2 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_yourteam_2.png) !important;
+        background-image: url(/assets/img/sites/bgo/bs_yourteam_2.png) !important;
     }
 
 
@@ -8600,7 +8600,7 @@ font-size: 34px;
             background-color: rgba(0, 0, 0, 0.28);
 }
 
-    .main_careers { background-image: url(../../content.backgroundsonline.com/images/sites/bgo/career_top_background.jpg); }
+    .main_careers { background-image: url(/assets/img/sites/bgo/career_top_background.jpg); }
     .careers_header
     {
         font-size:50px;
@@ -8843,7 +8843,7 @@ font-size: 34px;
     }
 
     .bgo-logo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bgo_logo_mobile.png);
+        background-image: url(/assets/img/sites/bgo/bgo_logo_mobile.png);
         background-repeat: no-repeat;
         background-position: left top;
         width: 43px;
@@ -9056,14 +9056,14 @@ font-size: 34px;
         width: 34px;
         height: 34px;
         float: left;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/form-confirmation-check.jpg);
+        background-image: url(/assets/img/sites/bgo/form-confirmation-check.jpg);
     }
 
     .form-error-x {
         width: 34px;
         height: 34px;
         float: left;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/form-error-check.jpg);
+        background-image: url(/assets/img/sites/bgo/form-error-check.jpg);
     }
 
     /* Home ============================================================================================================================================================================ */
@@ -9090,7 +9090,7 @@ font-size: 34px;
 .hm_top .laptop
 {
 	height: 936px;
-	background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bgo_laptop.png);
+	background-image: url(/assets/img/sites/bgo/bgo_laptop.png);
 	background-position: 10px 60px;
 	background-repeat: no-repeat;
 	position: absolute;
@@ -9358,7 +9358,7 @@ padding: 10px;
 
 
     .banner-main {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Main_1.jpg);
+        background-image: url(/assets/img/sites/bgo/HM_Main_1.jpg);
         width: 100%;
         height: 400px;
         background-position: center center;
@@ -9467,7 +9467,7 @@ padding: 10px;
 
 
     .banner-service {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Service-Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/HM_Service-Background_a.jpg);
         width: 100%;
         height: 400px;
         background-position: center center;
@@ -9487,7 +9487,7 @@ padding: 10px;
         }
 
     .banner-product {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Products-Background.jpg);
+        background-image: url(/assets/img/sites/bgo/HM_Products-Background.jpg);
         width: 100%;
         height: 400px;
         background-position: center center;
@@ -9502,7 +9502,7 @@ padding: 10px;
     }
 
     .banner-education {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Education-Background_b.jpg);
+        background-image: url(/assets/img/sites/bgo/HM_Education-Background_b.jpg);
         width: 100%;
         height: 400px;
         background-position: center center;
@@ -9521,7 +9521,7 @@ padding: 10px;
         }
 
     .banner-technology {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/banner-technology_v2.jpg);
+        background-image: url(/assets/img/sites/bgo/banner-technology_v2.jpg);
         width: 100%;
         height: 400px;
         background-position: center center;
@@ -9540,7 +9540,7 @@ padding: 10px;
         }
 
     .banner-compliance {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Compliance-Background.jpg);
+        background-image: url(/assets/img/sites/bgo/HM_Compliance-Background.jpg);
         width: 100%;
         height: 400px;
         background-position: center center;
@@ -9765,7 +9765,7 @@ padding: 10px;
         display: table;
 
         background-position:center center;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/quote_area_background.jpg);
+        background-image: url(/assets/img/sites/bgo/quote_area_background.jpg);
         background-repeat:no-repeat;
         background-size: cover;
     }
@@ -9853,7 +9853,7 @@ padding: 10px;
     }
 
         .unslider-arrow.next {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/arrow_next.png);
+            background-image: url(/assets/img/sites/bgo/arrow_next.png);
             background-repeat: no-repeat;
             float: right;
             overflow: hidden;
@@ -9861,7 +9861,7 @@ padding: 10px;
         }
 
         .unslider-arrow.prev {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/arrow_prev.png);
+            background-image: url(/assets/img/sites/bgo/arrow_prev.png);
             background-repeat: no-repeat;
             overflow: hidden;
             background-size: 70%;
@@ -10045,7 +10045,7 @@ padding: 10px;
 
 
     #products .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Products_b.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Products_b.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -10353,7 +10353,7 @@ padding: 10px;
         padding-bottom: 3px;
         padding-top: 3px;
         color: #000;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/product_check_b.png);
+        background-image: url(/assets/img/sites/bgo/product_check_b.png);
         background-repeat: no-repeat;
         background-position: 6px center;
         padding-left: 26px;
@@ -10370,7 +10370,7 @@ padding: 10px;
         padding-bottom: 10px;
         padding-top: 10px;
         color: #000;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/product_check_b.png);
+        background-image: url(/assets/img/sites/bgo/product_check_b.png);
         background-repeat: no-repeat;
         background-position: 6px 12px;
         /* padding-left: 26px; */
@@ -10913,19 +10913,19 @@ padding: 10px;
 
 
     .main_criminalreports {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_Criminals.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_Criminals.jpg);
     }
 
     .main_verifications {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_Verifications.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_Verifications.jpg);
     }
 
     .main_additionalreports {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_AdditionalReports.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_AdditionalReports.jpg);
     }
 
     .main_internationalreports {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_International.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_International.jpg);
     }
 
     #products_section .header_1 {
@@ -10977,7 +10977,7 @@ padding: 10px;
         width: 40px;
         height: 60px;
         display: block;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/product_arrow_left.png);
+        background-image: url(/assets/img/sites/bgo/product_arrow_left.png);
         background-repeat: no-repeat;
         background-position: 0px center;
         background-size: 100%;
@@ -10990,7 +10990,7 @@ padding: 10px;
         width: 40px;
         height: 60px;
         display: block;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/product_arrow_right.png);
+        background-image: url(/assets/img/sites/bgo/product_arrow_right.png);
         background-repeat: no-repeat;
         background-position: 0px center;
         background-size: 100%;
@@ -11127,7 +11127,7 @@ padding: 10px;
         color: #fff !important;
     }
 
-	.main_statelaws { background-image: url(../../content.backgroundsonline.com/images/sites/bgo/statelaws_top_photo.jpg); }
+	.main_statelaws { background-image: url(/assets/img/sites/bgo/statelaws_top_photo.jpg); }
 
 	.statelaws_main-area-content
 	{
@@ -11142,7 +11142,7 @@ padding: 10px;
     padding-bottom: 40px;
     width: 100%;
     background-color: #0d3759;
-    background-image: url(../../content.backgroundsonline.com/images/sites/bgo/hm_top_background_highlight.png);
+    background-image: url(/assets/img/sites/bgo/hm_top_background_highlight.png);
     background-repeat: repeat-x;
     background-position: center bottom;
     color: #fff;
@@ -11444,7 +11444,7 @@ path{
 
 
     #solutionsbyindustry .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Solutions_b.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Solutions_b.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -11465,68 +11465,68 @@ path{
     }
 
     .sbi_background_health {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Medical_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Medical_Background.jpg);
     }
 
     .sbi_background_construction {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Construction_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Construction_Background.jpg);
     }
 
     .sbi_background_education {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Education_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Education_Background.jpg);
     }
 
     .sbi_background_financial {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Financial_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Financial_Background.jpg);
     }
 
 
     .sbi_background_government {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Government_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Government_Background.jpg);
     }
 
     .sbi_background_smallbusiness {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Smallbusiness_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Smallbusiness_Background.jpg);
     }
 
     .sbi_background_ondemand {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Ondemand_Background1b26.jpg?v2);
+        background-image: url(/assets/img/sites/bgo/IS_Ondemand_Background1b26.jpg?v2);
     }
 
     .sbi_background_realestate {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Realestate_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Realestate_Background.jpg);
     }
 
     .sbi_background_notaries {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Notary_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Notary_Background.jpg);
     }
 
     .sbi_background_manufacturing {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Manufacturing_Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Manufacturing_Background_a.jpg);
     }
 
     .sbi_background_transportation {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Transportation_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Transportation_Background.jpg);
     }
 
     .sbi_background_nonprofit {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Volunteer_Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Volunteer_Background_a.jpg);
     }
 
     .sbi_background_staffing {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Staffing_Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Staffing_Background_a.jpg);
     }
 
     .sbi_background_technology {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Technology_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Technology_Background.jpg);
     }
 
     .sbi_background_retail {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Retail_Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Retail_Background_a.jpg);
     }
 
     .sbi_background_insurance {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Insurance_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Insurance_Background.jpg);
     }
 
 
@@ -11870,7 +11870,7 @@ path{
 
 
     .sbi_product_col2 li, .sbi_product_col2b li {
-        list-style-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_checkmark.gif);
+        list-style-image: url(/assets/img/sites/bgo/sbi_checkmark.gif);
         background-repeat: no-repeat;
         background-position: left center;
         font-size: 15px;
@@ -11995,7 +11995,7 @@ path{
     }
 
     .sbi_fcra {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_fcra_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_fcra_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -12056,7 +12056,7 @@ path{
     .sbi_faq {
         width: 100%;
         min-height: 404px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_faq_back.png);
+        background-image: url(/assets/img/sites/bgo/sbi_faq_back.png);
         background-repeat: repeat-y;
         background-position: center top;
         vertical-align: top;
@@ -12074,7 +12074,7 @@ path{
         height: auto;
         background-color: #FFF;
         vertical-align: top;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_faq_back_bulb.png);
+        background-image: url(/assets/img/sites/bgo/sbi_faq_back_bulb.png);
         background-repeat: no-repeat;
         background-position: left top;
         display: inline-block;
@@ -12151,7 +12151,7 @@ path{
         width: 100%;
         /* height: 367px; */
         display: inline-block;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_bottom_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_bottom_background.jpg);
         vertical-align: top;
         background-size: cover;
         background-repeat: no-repeat;
@@ -12321,7 +12321,7 @@ path{
     }
 
     #technology .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Technology.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Technology.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -12582,7 +12582,7 @@ path{
     /* SOC2 ============================================ */
 
     #soc2 .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_SOC.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_SOC.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -12620,7 +12620,7 @@ path{
     }
 
     .soc2_middle {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/soc2_middle_background.jpg);
+        background-image: url(/assets/img/sites/bgo/soc2_middle_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -12664,7 +12664,7 @@ path{
         }
     /* WHY US ============================================ */
     #why-us .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_background.jpg);
+        background-image: url(/assets/img/sites/bgo/whyus_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -12711,7 +12711,7 @@ path{
     .why-bluearea {
         display: table;
         height: 250px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_fcra_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_fcra_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -12785,7 +12785,7 @@ path{
     .howourprocessworks {
         width: 100%;
         /* height: 630px; */
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_fcra_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_fcra_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -13001,7 +13001,7 @@ path{
     }
 
     #step_1 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_1.png);
+        background-image: url(/assets/img/sites/bgo/whyus_chart_1.png);
         width: 140px;
         height: 100px;
         display: block;
@@ -13010,11 +13010,11 @@ path{
     }
 
         #step_1:hover {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_1_hover.png);
+            background-image: url(/assets/img/sites/bgo/whyus_chart_1_hover.png);
         }
 
     #step_2 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_2.png);
+        background-image: url(/assets/img/sites/bgo/whyus_chart_2.png);
         width: 158px;
         height: 100px;
         display: block;
@@ -13023,11 +13023,11 @@ path{
     }
 
         #step_2:hover {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_2_hover.png);
+            background-image: url(/assets/img/sites/bgo/whyus_chart_2_hover.png);
         }
 
     #step_3 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_3.png);
+        background-image: url(/assets/img/sites/bgo/whyus_chart_3.png);
         width: 175px;
         height: 100px;
         display: block;
@@ -13036,11 +13036,11 @@ path{
     }
 
         #step_3:hover {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_3_hover.png);
+            background-image: url(/assets/img/sites/bgo/whyus_chart_3_hover.png);
         }
 
     #step_4 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_4.png);
+        background-image: url(/assets/img/sites/bgo/whyus_chart_4.png);
         width: 160px;
         height: 100px;
         display: block;
@@ -13049,12 +13049,12 @@ path{
     }
 
         #step_4:hover {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_4_hover.png);
+            background-image: url(/assets/img/sites/bgo/whyus_chart_4_hover.png);
         }
 
     .step_0, .step_1, .step_2, .step_3, .step_4, .step_5 {
         border: 1px solid #b3b3b3;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_fcra_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_fcra_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -13065,7 +13065,7 @@ path{
 
     /* RESURCE ============================================ */
     #resources .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Resources.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Resources.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -13190,7 +13190,7 @@ path{
 
     /*Privacy Policy ------------------*/
     #privacy .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/background_privacy.jpg);
+        background-image: url(/assets/img/sites/bgo/background_privacy.jpg);
         height: 326px;
         background-repeat: no-repeat;
         background-position: center bottom;
@@ -13495,7 +13495,7 @@ path{
 
     /* SIGN UP ============================================ */
     #signup .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/signup-background.jpg);
+        background-image: url(/assets/img/sites/bgo/signup-background.jpg);
         height: 526px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -13606,7 +13606,7 @@ path{
 
 
     #contactus .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Products_b.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Products_b.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -13851,7 +13851,7 @@ path{
     select.form-dropdown1 {
         overflow: hidden !important;
         border: 1px #929292 solid !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon.png) !important;
         background-repeat: no-repeat !important;
         background-position: right center !important;
         cursor: pointer !important;
@@ -13874,7 +13874,7 @@ path{
     .form-dropdown1b {
         overflow: hidden !important;
         border: 1px #929292 solid !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon.png) !important;
         background-repeat: no-repeat !important;
         background-position: right !important;
         cursor: pointer !important;
@@ -13898,7 +13898,7 @@ path{
     .form-dropdown1 {
         overflow: hidden !important;
         border: 1px #929292 solid !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon.png) !important;
         background-repeat: no-repeat !important;
         background-position: right !important;
         cursor: pointer !important;
@@ -14077,7 +14077,7 @@ path{
 
     /* Thank You ============================================ */
     #thankyou .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/signup-background.jpg);
+        background-image: url(/assets/img/sites/bgo/signup-background.jpg);
         height: 426px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -14204,7 +14204,7 @@ path{
 
     /* Free Demo ============================================ */
     #freedemo .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/background_freedemo.jpg);
+        background-image: url(/assets/img/sites/bgo/background_freedemo.jpg);
         height: 526px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -14305,7 +14305,7 @@ path{
 
     /* Dispute ============================================ */
     #dispute .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/dispute_background.jpg);
+        background-image: url(/assets/img/sites/bgo/dispute_background.jpg);
         height: 526px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -14393,7 +14393,7 @@ path{
     }
 
     #dispute_thankyou .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/dispute_background.jpg);
+        background-image: url(/assets/img/sites/bgo/dispute_background.jpg);
         height: 410px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -14571,7 +14571,7 @@ path{
     }
 
     #createaccount_main .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main-Top_banner_filler.jpg);
+        background-image: url(/assets/img/sites/bgo/Main-Top_banner_filler.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -14678,7 +14678,7 @@ path{
     /* SignUp Pages ===================*/
 
     #CreateAccount .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_background_main.jpg);
+        background-image: url(/assets/img/sites/bgo/su_background_main.jpg);
         height: 136px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -14687,7 +14687,7 @@ path{
     }
 
     #BusinessDetails .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_background_main.jpg);
+        background-image: url(/assets/img/sites/bgo/su_background_main.jpg);
         height: 136px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -14696,7 +14696,7 @@ path{
     }
 
     #ServiceAgreement .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_background_main.jpg);
+        background-image: url(/assets/img/sites/bgo/su_background_main.jpg);
         height: 136px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -14705,7 +14705,7 @@ path{
     }
 
     #Signature .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_background_main.jpg);
+        background-image: url(/assets/img/sites/bgo/su_background_main.jpg);
         height: 136px;
         background-repeat: no-repeat;
         background-position: center top;
@@ -14909,7 +14909,7 @@ path{
 
     .su_field_drop_1 {
         overflow: hidden !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon1.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon1.png) !important;
         background-repeat: no-repeat !important;
         cursor: pointer !important;
         background-size: 20px;
@@ -14920,7 +14920,7 @@ path{
 
     .su_field_drop_2 {
         overflow: hidden !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon1.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon1.png) !important;
         background-repeat: no-repeat !important;
         cursor: pointer !important;
         background-size: 20px;
@@ -14932,7 +14932,7 @@ path{
     .su_field_drop_3 {
         overflow: hidden !important;
         border: 1px #929292 solid !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon.png) !important;
         background-repeat: no-repeat !important;
         background-position: right center !important;
         cursor: pointer !important;
@@ -14954,7 +14954,7 @@ path{
     .su_field_drop_4 {
         overflow: hidden !important;
         border: 1px #929292 solid !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon.png) !important;
         background-repeat: no-repeat !important;
         background-position: right center !important;
         cursor: pointer !important;
@@ -15029,7 +15029,7 @@ path{
     .cc_visa_off {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_visa_no.png);
+        background-image: url(/assets/img/sites/bgo/cc_visa_no.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -15040,7 +15040,7 @@ path{
     .cc_visa_on {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_visa_yes.png);
+        background-image: url(/assets/img/sites/bgo/cc_visa_yes.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -15052,7 +15052,7 @@ path{
     .cc_mastercard_off {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_mastercard_no.png);
+        background-image: url(/assets/img/sites/bgo/cc_mastercard_no.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -15063,7 +15063,7 @@ path{
     .cc_mastercard_on {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_mastercard_yes.png);
+        background-image: url(/assets/img/sites/bgo/cc_mastercard_yes.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -15075,7 +15075,7 @@ path{
     .cc_amex_off {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_amex_no.png);
+        background-image: url(/assets/img/sites/bgo/cc_amex_no.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -15086,7 +15086,7 @@ path{
     .cc_amex_on {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_amex_yes.png);
+        background-image: url(/assets/img/sites/bgo/cc_amex_yes.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -15098,7 +15098,7 @@ path{
     .cc_discover_off {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_discover_no.png);
+        background-image: url(/assets/img/sites/bgo/cc_discover_no.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -15109,7 +15109,7 @@ path{
     .cc_discover_on {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_discover_yes.png);
+        background-image: url(/assets/img/sites/bgo/cc_discover_yes.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -15122,7 +15122,7 @@ path{
     }
 
     .password_tooshort {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_1.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_1.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -15132,7 +15132,7 @@ path{
     }
 
     .password_weak {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_2.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_2.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -15142,7 +15142,7 @@ path{
     }
 
     .password_fair {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_3.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_3.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -15152,7 +15152,7 @@ path{
     }
 
     .password_good {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_4.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_4.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -15162,7 +15162,7 @@ path{
     }
 
     .password_strong {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_5.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_5.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -15264,7 +15264,7 @@ path{
         width: 680px;
         height: 140px;
         border: 1px solid #929292;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_signature_back.png);
+        background-image: url(/assets/img/sites/bgo/su_signature_back.png);
         background-repeat: no-repeat;
         background-position: center 80px;
     }
@@ -15395,7 +15395,7 @@ path{
 
 
     #napbs .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_SOC.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_SOC.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -15465,7 +15465,7 @@ path{
     }
 
     .langingpage_criminal_photo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Criminal_Landing_Background_2.jpg);
+        background-image: url(/assets/img/sites/bgo/Criminal_Landing_Background_2.jpg);
     }
 
     #langingpage_criminal .main-area-content {
@@ -15599,7 +15599,7 @@ path{
 
 
     .langingpage_education_photo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Landingpage_topbanner_education.jpg);
+        background-image: url(/assets/img/sites/bgo/Landingpage_topbanner_education.jpg);
     }
 
 
@@ -15739,7 +15739,7 @@ path{
 
 
     .langingpage_employment_photo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Landingpage_topbanner_employment.jpg);
+        background-image: url(/assets/img/sites/bgo/Landingpage_topbanner_employment.jpg);
         background-position: 43% top !important;
     }
 
@@ -15868,7 +15868,7 @@ path{
     /*BGO20 Landing page====================================*/
 
     .langingpage_bgo20_photo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Landingpage_topbanner_BGO20.jpg);
+        background-image: url(/assets/img/sites/bgo/Landingpage_topbanner_BGO20.jpg);
         background-repeat: no-repeat;
         background-position: 57% top;
         background-size: cover;
@@ -15957,7 +15957,7 @@ path{
     }
 
     .bgo20_centerglobe {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/BGO20Landing_centerglobe_a.jpg);
+        background-image: url(/assets/img/sites/bgo/BGO20Landing_centerglobe_a.jpg);
         background-repeat: no-repeat;
         background-position: 43% center;
         background-size: cover;
@@ -16082,7 +16082,7 @@ clear:both;
 
 	display: inline-block;
 	vertical-align: top;
-	background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cm_background_top.jpg);
+	background-image: url(/assets/img/sites/bgo/cm_background_top.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -16436,7 +16436,7 @@ width:100%;
 
 	display: inline-block;
 	vertical-align: top;
-	background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_background_top.jpg);
+	background-image: url(/assets/img/sites/bgo/bs_background_top.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -16558,7 +16558,7 @@ width:100%;
     height: 50px;
     width: 100%;
     max-width: 130px;
-    background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_grey_icon_spacer_1.png);
+    background-image: url(/assets/img/sites/bgo/bs_grey_icon_spacer_1.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100% auto;
@@ -16581,7 +16581,7 @@ display: block;
     height: 50px;
     width: 100%;
     max-width: 150px;
-    background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_grey_icon_spacer_2.png);
+    background-image: url(/assets/img/sites/bgo/bs_grey_icon_spacer_2.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100% auto;
@@ -16618,7 +16618,7 @@ position: absolute;
     height: 604px;
     margin-left: -390px;
     pointer-events: none;
-    background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_peoplescreen_1.png);
+    background-image: url(/assets/img/sites/bgo/bs_peoplescreen_1.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100% auto;
@@ -16633,11 +16633,11 @@ position: absolute;
     }
 
     .bs_peoplescreen_laptop_2 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_peoplescreen_2.png) !important;
+        background-image: url(/assets/img/sites/bgo/bs_peoplescreen_2.png) !important;
     }
 
     .bs_peoplescreen_laptop_3 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_peoplescreen_3.png) !important;
+        background-image: url(/assets/img/sites/bgo/bs_peoplescreen_3.png) !important;
     }
 
     .bs_peoplescreen_copy {
@@ -16697,7 +16697,7 @@ position: absolute;
     right: 0px;
     /* margin-left: 420px; */
     pointer-events: none;
-    background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_yourteam_1.png);
+    background-image: url(/assets/img/sites/bgo/bs_yourteam_1.png);
     background-repeat: no-repeat;
     background-position: 0px center;
     background-size: auto 100%;
@@ -16712,7 +16712,7 @@ position: absolute;
     }
 
     .bs_yourteam_laptop_2 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_yourteam_2.png) !important;
+        background-image: url(/assets/img/sites/bgo/bs_yourteam_2.png) !important;
     }
 
 
@@ -16871,7 +16871,7 @@ font-size: 34px;
     padding-bottom: 60px;
 }
 
-    .main_careers { background-image: url(../../content.backgroundsonline.com/images/sites/bgo/career_top_background.jpg); }
+    .main_careers { background-image: url(/assets/img/sites/bgo/career_top_background.jpg); }
     .careers_header
     {
         font-size:50px;
@@ -17135,7 +17135,7 @@ font-size: 34px;
     }
 
     .bgo-logo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bgo_logo_mobile.png);
+        background-image: url(/assets/img/sites/bgo/bgo_logo_mobile.png);
         background-repeat: no-repeat;
         background-position: left top;
         width: 43px;
@@ -17339,7 +17339,7 @@ font-size: 34px;
         height: 25px;
         margin-top: 5px;
         float: left;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/form-confirmation-check.jpg);
+        background-image: url(/assets/img/sites/bgo/form-confirmation-check.jpg);
         background-size: cover;
     }
 
@@ -17348,7 +17348,7 @@ font-size: 34px;
         height: 25px;
         margin-top: 5px;
         float: left;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/form-error-check.jpg);
+        background-image: url(/assets/img/sites/bgo/form-error-check.jpg);
         background-size: cover;
     }
 
@@ -17624,7 +17624,7 @@ padding: 5px;
     }
 
     .banner-service {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Service-Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/HM_Service-Background_a.jpg);
         height: 100%;
         width: 100%;
         display: table;
@@ -17642,7 +17642,7 @@ padding: 5px;
         }
 
     .banner-product {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Products-Background.jpg);
+        background-image: url(/assets/img/sites/bgo/HM_Products-Background.jpg);
         height: 100%;
         width: 100%;
         display: table;
@@ -17656,7 +17656,7 @@ padding: 5px;
     }
 
     .banner-education {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Education-Background_b.jpg);
+        background-image: url(/assets/img/sites/bgo/HM_Education-Background_b.jpg);
         height: 100%;
         width: 100%;
         display: table;
@@ -17674,7 +17674,7 @@ padding: 5px;
         }
 
     .banner-technology {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/banner-technology_v2.jpg);
+        background-image: url(/assets/img/sites/bgo/banner-technology_v2.jpg);
         height: 100%;
         width: 100%;
         display: table;
@@ -17692,7 +17692,7 @@ padding: 5px;
         }
 
     .banner-compliance {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Compliance-Background.jpg);
+        background-image: url(/assets/img/sites/bgo/HM_Compliance-Background.jpg);
         height: 100%;
         width: 100%;
         display: table;
@@ -17937,7 +17937,7 @@ padding: 5px;
         display: table;
         padding-top:30px;
         background-position:center center;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/quote_area_background.jpg);
+        background-image: url(/assets/img/sites/bgo/quote_area_background.jpg);
         background-repeat:no-repeat;
         background-size: cover;
 
@@ -18033,14 +18033,14 @@ padding: 5px;
     }
 
         .unslider-arrow.next {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/arrow_next.png);
+            background-image: url(/assets/img/sites/bgo/arrow_next.png);
             background-repeat: no-repeat;
             float: right;
             overflow: hidden;
         }
 
         .unslider-arrow.prev {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/arrow_prev.png);
+            background-image: url(/assets/img/sites/bgo/arrow_prev.png);
             background-repeat: no-repeat;
             overflow: hidden;
         }
@@ -18226,7 +18226,7 @@ padding: 5px;
 
 
     #products .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Products_b.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Products_b.jpg);
         background-repeat: no-repeat;
         background-position: 55% top;
         background-size: cover;
@@ -18538,7 +18538,7 @@ padding: 5px;
         padding-bottom: 3px;
         padding-top: 3px;
         color: #000;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/product_check_b.png);
+        background-image: url(/assets/img/sites/bgo/product_check_b.png);
         background-repeat: no-repeat;
         background-position: 6px center;
         padding-left: 26px;
@@ -18555,7 +18555,7 @@ padding: 5px;
         padding-bottom: 10px;
         padding-top: 10px;
         color: #000;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/product_check_b.png);
+        background-image: url(/assets/img/sites/bgo/product_check_b.png);
         background-repeat: no-repeat;
         background-position: 6px 12px;
         padding-left: 26px;
@@ -19110,19 +19110,19 @@ padding: 5px;
     }
 
     .main_criminalreports {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_Criminals.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_Criminals.jpg);
     }
 
     .main_verifications {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_Verifications.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_Verifications.jpg);
     }
 
     .main_additionalreports {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_AdditionalReports.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_AdditionalReports.jpg);
     }
 
     .main_internationalreports {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_International.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_International.jpg);
     }
 
 
@@ -19178,7 +19178,7 @@ padding: 5px;
         width: 20px;
         height: 60px;
         display: block;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/product_arrow_left.png);
+        background-image: url(/assets/img/sites/bgo/product_arrow_left.png);
         background-repeat: no-repeat;
         background-position: 0px center;
         background-size: 100%;
@@ -19191,7 +19191,7 @@ padding: 5px;
         width: 20px;
         height: 60px;
         display: block;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/product_arrow_right.png);
+        background-image: url(/assets/img/sites/bgo/product_arrow_right.png);
         background-repeat: no-repeat;
         background-position: 0px center;
         background-size: 100%;
@@ -19329,7 +19329,7 @@ padding: 5px;
         color: #fff !important;
     }
 
-	.main_statelaws { background-image: url(../../content.backgroundsonline.com/images/sites/bgo/statelaws_top_photo.jpg); }
+	.main_statelaws { background-image: url(/assets/img/sites/bgo/statelaws_top_photo.jpg); }
 
 .statelaws_main-area-content
 	{
@@ -19344,7 +19344,7 @@ padding: 5px;
 width: 100%;
 
     background-color: #0d3759;
-    background-image: url(../../content.backgroundsonline.com/images/sites/bgo/hm_top_background_highlight.png);
+    background-image: url(/assets/img/sites/bgo/hm_top_background_highlight.png);
     background-repeat: repeat-x;
     background-position: center bottom;
     color:#fff;
@@ -19642,7 +19642,7 @@ path{
 
 
     #solutionsbyindustry .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Solutions_b.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Solutions_b.jpg);
         background-repeat: no-repeat;
         background-position: 55% top;
         background-size: cover;
@@ -19666,68 +19666,68 @@ path{
 
 
     .sbi_background_health {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Medical_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Medical_Background.jpg);
     }
 
     .sbi_background_construction {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Construction_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Construction_Background.jpg);
     }
 
     .sbi_background_education {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Education_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Education_Background.jpg);
     }
 
     .sbi_background_financial {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Financial_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Financial_Background.jpg);
     }
 
 
     .sbi_background_government {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Government_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Government_Background.jpg);
     }
 
     .sbi_background_smallbusiness {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Smallbusiness_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Smallbusiness_Background.jpg);
     }
 
     .sbi_background_ondemand {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Ondemand_Background1b26.jpg?v2);
+        background-image: url(/assets/img/sites/bgo/IS_Ondemand_Background1b26.jpg?v2);
     }
 
     .sbi_background_realestate {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Realestate_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Realestate_Background.jpg);
     }
 
     .sbi_background_notaries {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Notary_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Notary_Background.jpg);
     }
 
     .sbi_background_manufacturing {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Manufacturing_Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Manufacturing_Background_a.jpg);
     }
 
     .sbi_background_transportation {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Transportation_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Transportation_Background.jpg);
     }
 
     .sbi_background_nonprofit {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Volunteer_Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Volunteer_Background_a.jpg);
     }
 
     .sbi_background_staffing {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Staffing_Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Staffing_Background_a.jpg);
     }
 
     .sbi_background_technology {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Technology_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Technology_Background.jpg);
     }
 
     .sbi_background_retail {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Retail_Background_a.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Retail_Background_a.jpg);
     }
 
     .sbi_background_insurance {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/IS_Insurance_Background.jpg);
+        background-image: url(/assets/img/sites/bgo/IS_Insurance_Background.jpg);
     }
 
 
@@ -20067,7 +20067,7 @@ path{
 
 
     .sbi_product_col2 li {
-        list-style-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_checkmark.gif);
+        list-style-image: url(/assets/img/sites/bgo/sbi_checkmark.gif);
         background-repeat: no-repeat;
         background-position: left center;
         font-size: 14px;
@@ -20189,7 +20189,7 @@ path{
     }
 
     .sbi_fcra {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_fcra_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_fcra_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -20241,7 +20241,7 @@ path{
     .sbi_faq {
         width: 100%;
         min-height: 404px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_faq_back.png);
+        background-image: url(/assets/img/sites/bgo/sbi_faq_back.png);
         background-repeat: repeat-y;
         background-position: center top;
         vertical-align: top;
@@ -20259,7 +20259,7 @@ path{
         height: auto;
         background-color: #FFF;
         vertical-align: top;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_faq_back_bulb.png);
+        background-image: url(/assets/img/sites/bgo/sbi_faq_back_bulb.png);
         background-repeat: no-repeat;
         background-position: left top;
         display: inline-block;
@@ -20343,7 +20343,7 @@ path{
         width: 100%;
         /* height: 367px; */
         display: inline-block;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_bottom_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_bottom_background.jpg);
         vertical-align: top;
         background-repeat: no-repeat;
         background-position: 35% center;
@@ -20506,7 +20506,7 @@ path{
     }
     /* TECHNOLOGY ======================================================= */
     #technology .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Technology.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Technology.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -20748,7 +20748,7 @@ path{
     /* SOC2 ============================================ */
 
     #soc2 .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_SOC.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_SOC.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -20776,7 +20776,7 @@ path{
     }
 
     .soc2_middle {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/soc2_middle_background.jpg);
+        background-image: url(/assets/img/sites/bgo/soc2_middle_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -20824,7 +20824,7 @@ path{
         }
     /* WHY US ============================================ */
     #why-us .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_background.jpg);
+        background-image: url(/assets/img/sites/bgo/whyus_background.jpg);
         background-repeat: no-repeat;
         background-position: 55% top;
         background-size: cover;
@@ -20879,7 +20879,7 @@ path{
     .why-bluearea {
         display: table;
         height: 250px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_fcra_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_fcra_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -20948,7 +20948,7 @@ path{
 
     .howourprocessworks {
         width: 100%;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_fcra_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_fcra_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -21057,7 +21057,7 @@ path{
         margin-bottom: 20px;
         border: 2px solid #999;
         border-radius: 10px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_fcra_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_fcra_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -21151,7 +21151,7 @@ path{
 
     .why_chart_wrap { /* width: 300px; */
         height: 70px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/whyus_chart_b.png);
+        background-image: url(/assets/img/sites/bgo/whyus_chart_b.png);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: contain;
@@ -21165,7 +21165,7 @@ path{
 
     .step_0, .step_1, .step_2, .step_3, .step_4, .step_5 {
         border: 1px solid #b3b3b3;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/sbi_fcra_background.jpg);
+        background-image: url(/assets/img/sites/bgo/sbi_fcra_background.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -21175,7 +21175,7 @@ path{
 
     /* RESURCE ============================================ */
     #resources .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Resources.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Resources.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -21338,7 +21338,7 @@ path{
 
     /*Privacy Policy ------------------*/
     #privacy .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/background_privacy.jpg);
+        background-image: url(/assets/img/sites/bgo/background_privacy.jpg);
         height: 250px;
         background-repeat: no-repeat;
         background-position: center bottom;
@@ -21636,7 +21636,7 @@ path{
 
     /* SIGN UP ============================================ */
     #signup .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/signup-background.jpg);
+        background-image: url(/assets/img/sites/bgo/signup-background.jpg);
         height: 100%;
         background-repeat: no-repeat;
         background-position: 70% top;
@@ -21744,7 +21744,7 @@ path{
 
 
     #contactus .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Top_Banner_Products_b.jpg);
+        background-image: url(/assets/img/sites/bgo/Top_Banner_Products_b.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -21929,7 +21929,7 @@ path{
     select.form-dropdown1 {
         overflow: hidden !important;
         border: 1px #929292 solid !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon.png) !important;
         background-repeat: no-repeat !important;
         background-position: right center !important;
         cursor: pointer !important;
@@ -21952,7 +21952,7 @@ path{
     .form-dropdown1b {
         overflow: hidden !important;
         border: 1px #929292 solid !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon.png) !important;
         background-repeat: no-repeat !important;
         background-position: right !important;
         cursor: pointer !important;
@@ -21976,7 +21976,7 @@ path{
     .form-dropdown1 {
         overflow: hidden !important;
         border: 1px #929292 solid !important;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon.png) !important;
         background-repeat: no-repeat !important;
         background-position: right !important;
         cursor: pointer !important;
@@ -22172,7 +22172,7 @@ path{
 
     /* Thank You ============================================ */
     #thankyou .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/signup-background.jpg);
+        background-image: url(/assets/img/sites/bgo/signup-background.jpg);
         height: 326px;
         background-repeat: no-repeat;
         background-position: 77% center;
@@ -22306,7 +22306,7 @@ path{
     }
 
         #freedemo .main-top-background {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/background_freedemo.jpg);
+            background-image: url(/assets/img/sites/bgo/background_freedemo.jpg);
             height: 100%;
             background-repeat: no-repeat;
             background-position: center top;
@@ -22406,7 +22406,7 @@ path{
     }
 
         #dispute .main-top-background {
-            background-image: url(../../content.backgroundsonline.com/images/sites/bgo/dispute_background.jpg);
+            background-image: url(/assets/img/sites/bgo/dispute_background.jpg);
             height: 100%;
             background-repeat: no-repeat;
             background-position: 70% top;
@@ -22475,7 +22475,7 @@ path{
         }
 
     #dispute_thankyou .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/dispute_background.jpg);
+        background-image: url(/assets/img/sites/bgo/dispute_background.jpg);
         height: 410px;
         background-repeat: no-repeat;
         background-position: 70% center;
@@ -22659,7 +22659,7 @@ path{
     }
 
     #createaccount_main .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main-Top_banner_filler.jpg);
+        background-image: url(/assets/img/sites/bgo/Main-Top_banner_filler.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -22765,7 +22765,7 @@ path{
     /* SignUp Pages ===================*/
 
     #CreateAccount .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_background_main.jpg);
+        background-image: url(/assets/img/sites/bgo/su_background_main.jpg);
         height: 100px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -22774,7 +22774,7 @@ path{
     }
 
     #BusinessDetails .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_background_main.jpg);
+        background-image: url(/assets/img/sites/bgo/su_background_main.jpg);
         height: 100px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -22783,7 +22783,7 @@ path{
     }
 
     #ServiceAgreement .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_background_main.jpg);
+        background-image: url(/assets/img/sites/bgo/su_background_main.jpg);
         height: 100px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -22792,7 +22792,7 @@ path{
     }
 
     #Signature .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_background_main.jpg);
+        background-image: url(/assets/img/sites/bgo/su_background_main.jpg);
         height: 100px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -22983,7 +22983,7 @@ path{
     }
 
     .su_field_drop_1 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon1.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon1.png) !important;
         background-repeat: no-repeat !important;
         background-size: 20px;
         font-family: "Helvetica Neue", sans-serif !important;
@@ -22993,7 +22993,7 @@ path{
     }
 
     .su_field_drop_2 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon1.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon1.png) !important;
         background-repeat: no-repeat !important;
         background-size: 20px;
         font-family: "Helvetica Neue", sans-serif !important;
@@ -23003,7 +23003,7 @@ path{
     }
 
     .su_field_drop_3 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon1.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon1.png) !important;
         background-repeat: no-repeat !important;
         background-size: 20px;
         font-family: "Helvetica Neue", sans-serif !important;
@@ -23013,7 +23013,7 @@ path{
     }
 
     .su_field_drop_4 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_select_icon1.png) !important;
+        background-image: url(/assets/img/sites/bgo/su_select_icon1.png) !important;
         background-repeat: no-repeat !important;
         background-size: 20px;
         font-family: "Helvetica Neue", sans-serif !important;
@@ -23077,7 +23077,7 @@ path{
     .cc_visa_off {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_visa_no.png);
+        background-image: url(/assets/img/sites/bgo/cc_visa_no.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -23088,7 +23088,7 @@ path{
     .cc_visa_on {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_visa_yes.png);
+        background-image: url(/assets/img/sites/bgo/cc_visa_yes.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -23100,7 +23100,7 @@ path{
     .cc_mastercard_off {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_mastercard_no.png);
+        background-image: url(/assets/img/sites/bgo/cc_mastercard_no.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -23111,7 +23111,7 @@ path{
     .cc_mastercard_on {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_mastercard_yes.png);
+        background-image: url(/assets/img/sites/bgo/cc_mastercard_yes.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -23123,7 +23123,7 @@ path{
     .cc_amex_off {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_amex_no.png);
+        background-image: url(/assets/img/sites/bgo/cc_amex_no.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -23134,7 +23134,7 @@ path{
     .cc_amex_on {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_amex_yes.png);
+        background-image: url(/assets/img/sites/bgo/cc_amex_yes.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -23146,7 +23146,7 @@ path{
     .cc_discover_off {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_discover_no.png);
+        background-image: url(/assets/img/sites/bgo/cc_discover_no.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -23157,7 +23157,7 @@ path{
     .cc_discover_on {
         width: 51px;
         height: 32px;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cc_discover_yes.png);
+        background-image: url(/assets/img/sites/bgo/cc_discover_yes.png);
         background-repeat: no-repeat;
         background-position: center center;
         display: block;
@@ -23170,7 +23170,7 @@ path{
     }
 
     .password_tooshort {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_1.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_1.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -23180,7 +23180,7 @@ path{
     }
 
     .password_weak {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_2.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_2.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -23190,7 +23190,7 @@ path{
     }
 
     .password_fair {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_3.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_3.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -23200,7 +23200,7 @@ path{
     }
 
     .password_good {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_4.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_4.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -23210,7 +23210,7 @@ path{
     }
 
     .password_strong {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/password_validation_5.png);
+        background-image: url(/assets/img/sites/bgo/password_validation_5.png);
         height: 560px;
         background-repeat: no-repeat;
         background-position: center center;
@@ -23315,7 +23315,7 @@ path{
         width: 100%;
         height: 140px;
         border: 1px solid #929292;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/su_signature_back.png);
+        background-image: url(/assets/img/sites/bgo/su_signature_back.png);
         background-repeat: no-repeat;
         background-position: center 99%;
         background-size: 100% auto;
@@ -23404,7 +23404,7 @@ path{
 
 
     #napbs .main-top-background {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Main_Top_Banner_SOC.jpg);
+        background-image: url(/assets/img/sites/bgo/Main_Top_Banner_SOC.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -23474,7 +23474,7 @@ path{
     }
 
     .langingpage_criminal_photo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Criminal_Landing_Background_2.jpg);
+        background-image: url(/assets/img/sites/bgo/Criminal_Landing_Background_2.jpg);
         background-position: 40% center;
     }
 
@@ -23613,7 +23613,7 @@ path{
     }
 
     .langingpage_education_photo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Landingpage_topbanner_education.jpg);
+        background-image: url(/assets/img/sites/bgo/Landingpage_topbanner_education.jpg);
     }
 
     #langingpage_education .main-area-content {
@@ -23750,7 +23750,7 @@ path{
     }
 
     .langingpage_employment_photo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Landingpage_topbanner_employment.jpg);
+        background-image: url(/assets/img/sites/bgo/Landingpage_topbanner_employment.jpg);
     }
 
     #langingpage_employment .main-area-content {
@@ -23878,7 +23878,7 @@ path{
     /*BGO20 Landing page====================================*/
 
     .langingpage_bgo20_photo {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/Landingpage_topbanner_BGO20_mobile.jpg);
+        background-image: url(/assets/img/sites/bgo/Landingpage_topbanner_BGO20_mobile.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: auto 160px;
@@ -23969,7 +23969,7 @@ path{
     }
 
     .bgo20_centerglobe {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/BGO20Landing_centerglobe_mobile.jpg);
+        background-image: url(/assets/img/sites/bgo/BGO20Landing_centerglobe_mobile.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: auto 200px;
@@ -24052,7 +24052,7 @@ path{
 
 	display: inline-block;
 	vertical-align: top;
-	background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cm_background_top.jpg);
+	background-image: url(/assets/img/sites/bgo/cm_background_top.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -24395,7 +24395,7 @@ width:100%;
 
 	display: inline-block;
 	vertical-align: top;
-	background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_background_top.jpg);
+	background-image: url(/assets/img/sites/bgo/bs_background_top.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -24574,7 +24574,7 @@ display: block;
         margin-left:auto;
         margin-right:auto;
         pointer-events: none;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_peoplescreen_1.png);
+        background-image: url(/assets/img/sites/bgo/bs_peoplescreen_1.png);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: 100% auto;
@@ -24589,11 +24589,11 @@ display: block;
     }
 
     .bs_peoplescreen_laptop_2 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_peoplescreen_2.png) !important;
+        background-image: url(/assets/img/sites/bgo/bs_peoplescreen_2.png) !important;
     }
 
     .bs_peoplescreen_laptop_3 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_peoplescreen_3.png) !important;
+        background-image: url(/assets/img/sites/bgo/bs_peoplescreen_3.png) !important;
     }
 
     .bs_peoplescreen_copy {
@@ -24653,7 +24653,7 @@ font-size: 28px;
         margin-left:auto;
         margin-right:auto;
         pointer-events: none;
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_yourteam_1.png);
+        background-image: url(/assets/img/sites/bgo/bs_yourteam_1.png);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: 100% auto;
@@ -24668,7 +24668,7 @@ font-size: 28px;
     }
 
     .bs_yourteam_laptop_2 {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_yourteam_2.png) !important;
+        background-image: url(/assets/img/sites/bgo/bs_yourteam_2.png) !important;
     }
 
 
@@ -24829,7 +24829,7 @@ font-size: 28px;
     padding-bottom: 60px;
 }
 
-    .main_careers { background-image: url(../../content.backgroundsonline.com/images/sites/bgo/career_top_background.jpg); }
+    .main_careers { background-image: url(/assets/img/sites/bgo/career_top_background.jpg); }
     .careers_header
     {
         font-size:50px;
