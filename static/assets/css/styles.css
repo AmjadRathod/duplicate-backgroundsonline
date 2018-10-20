@@ -451,7 +451,7 @@ body {
     }
 
     .bgo-logo_reverse {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bgo_logo_white.png);
+        background-image: url(/assets/img/sites/bgo/bgo_logo_white.png);
         background-repeat: no-repeat;
         background-position: left center;
         background-size: auto 90px;
@@ -807,8 +807,8 @@ body {
   	width: 100%;
   	height: 300px;
   }
-  
-  
+
+
 .hm_top .laptop
 {
 	height: 936px;
@@ -821,7 +821,7 @@ body {
 	/* overflow: hidden; */
 	left:500px;
 }
-  
+
   .hm_top .laptop_wrap
 {
 	height: 936px;
@@ -839,13 +839,13 @@ body {
   	width: 1170px;
   	height: 740px;
   }
-  
+
   .hm_top_man
   {
   display:inline-block;
   margin-top:75px
   }
-  
+
   .hm_top_header
   {
   	font-weight: 200;
@@ -856,7 +856,7 @@ body {
   	margin-bottom:10px;
       letter-spacing: 2px;
   }
-  
+
 .rs_top {
      height: 400px;
 }
@@ -874,7 +874,7 @@ body {
   	margin-bottom:20px;
       letter-spacing: 2px;
   }
-  
+
       .hm_btn_signup {
         border: 1px solid #fff;
         background-color: #fff;
@@ -901,8 +901,8 @@ body {
             color: #0d3759;
     }
 
-  
-  
+
+
       .hm_intro_area
   {
   width:100%;
@@ -946,7 +946,7 @@ body {
     }
         .hm_certification_col1:hover {
           filter: none;
-    
+
     }
 
     .hm_certification_col2 {
@@ -996,8 +996,8 @@ body {
         text-align: center;
         padding: 40px 0px;
     }
-  
-  
+
+
   .hm_sub_nav_txt
   {
   	list-style-type: none;
@@ -1006,20 +1006,20 @@ body {
   	display: inline-block;
   	margin-top:10px;
   }
-    
+
       .hm_sub_nav_txt li
   {
-  float:left; 
+  float:left;
   padding:0px 40px;
     }
-    
+
 .hm_sub_nav_txt li:last-child
   {
-  float:left; 
+  float:left;
   border-right:0px;
-  
+
     }
-  
+
       .hm_sub_nav_txt li a
       {
       	color: #333;
@@ -1027,18 +1027,18 @@ body {
       	font-size: 16px;
       	font-weight:500;
       }
-      
+
             .hm_sub_nav_txt li a:hover
       {
       	color: #9d529b;
-      
+
       }
                   .hm_sub_nav_txt li a img {
                       padding: 0px 0px 15px 0px;
                   }
-     
-  
-  
+
+
+
     #home .main-top-background {
         /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0d3759+0,0d3759+55,9d529b+100 */
         background: #0d3759; /* Old browsers */
@@ -1346,12 +1346,12 @@ body {
         }
 
         .su_body .input-box { position: relative;}
-        .su_body .unit { 
-            position: absolute; 
-            display: block; 
-            left: 10px; 
-            top: 3px; 
-            z-index: 9; 
+        .su_body .unit {
+            position: absolute;
+            display: block;
+            left: 10px;
+            top: 3px;
+            z-index: 9;
             font-size: 12px;
             color: #555;
             width: 100%;
@@ -1513,7 +1513,7 @@ body {
         float: left;
     }
 
-    
+
     .home_bgo_protect_image img {
         width: 400px;
 
@@ -1556,26 +1556,26 @@ display: table-cell;
     font-family: Helvetica, Arial, sans-serif
     }
     .hm_promo {
-        height:200px !important; 
+        height:200px !important;
         text-align: center;
          margin-bottom: -80px;
          display: block;
     }
 
     .hm_promo_background {
-        width: 800px; background-color: #eee; 
-        border-radius:5px; 
-        padding: 20px 20px 0px 20px; 
-        min-height: 130px; 
-        font-size: 26px; 
-        color: #0d3759;  
-        background-size: 200px; 
-        background-repeat: no-repeat; 
+        width: 800px; background-color: #eee;
+        border-radius:5px;
+        padding: 20px 20px 0px 20px;
+        min-height: 130px;
+        font-size: 26px;
+        color: #0d3759;
+        background-size: 200px;
+        background-repeat: no-repeat;
         box-shadow: 0 7px 16px 0 rgba(57, 76, 93, .3);
     }
     .hm_promo p {
-        width:400px; 
-        margin:0px auto; 
+        width:400px;
+        margin:0px auto;
         line-height:21px;
         text-align: left;
         color: #222;
@@ -1587,21 +1587,21 @@ display: table-cell;
         padding: 30px 0px 20px 0px;
     }
     .hm_promo_bottom {
-        background-image: url('../../content.backgroundsonline.com/images/email/bgo/hrop.png'); 
-        background-size: 160px; 
-        background-repeat: no-repeat; 
-        background-position:right; 
-        overflow: auto; 
+        background-image: url('../../content.backgroundsonline.com/images/email/bgo/hrop.png');
+        background-size: 160px;
+        background-repeat: no-repeat;
+        background-position:right;
+        overflow: auto;
         padding: 5px;
     }
     .hm_promo_btn a {
-        background-color: transparent; 
-        padding: 5px 15px; 
-        border-radius:30px; 
+        background-color: transparent;
+        padding: 5px 15px;
+        border-radius:30px;
         border: 2px solid #0d3759;
-        color: #0d3759; 
-        width: 100px; 
-        display: inline-block; 
+        color: #0d3759;
+        width: 100px;
+        display: inline-block;
         font-size:16px;
         font-weight: 300 !important;
         text-align: center;
@@ -1720,7 +1720,7 @@ display: table-cell;
     }
 
     #home .blog_area {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/background_blog.jpg);
+        background-image: url(/assets/img/sites/bgo/background_blog.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -2911,7 +2911,7 @@ display: table-cell;
 	/* STATE LAWS ======================================================= */
 
 
-	
+
 	#statelaws .main-top-background
 	{
 		background-repeat: no-repeat;
@@ -2923,9 +2923,9 @@ display: table-cell;
 		margin-top: 0px;
 		height: 200px;
 	}
-	
+
 	.main_statelaws { background-image: url(../../content.backgroundsonline.com/images/sites/bgo/statelaws_top_photo.jpg); }
-	
+
 	.statelaws_main-area-content
 	{
 		display: inline-block;
@@ -2943,7 +2943,7 @@ width: 100%;
     background-position: center bottom;
     color:#fff;
 	}
-	
+
 	.statelaws_main-area-width
 	{
 		text-align: left;
@@ -2981,7 +2981,7 @@ width: 100%;
 		color: #9b4899;
 		font-weight: 200;
 	}
-	
+
 	.statelaws_state_slection
 	{
     background-color: #f1efef;
@@ -2993,7 +2993,7 @@ width: 100%;
     text-align: center;
     border-bottom: 1px solid #c3c3c3;
 	}
-	
+
     .statelaws_subhead{
             font-size: 34px;
     line-height: 36px;
@@ -3018,14 +3018,14 @@ width: 100%;
 		padding-top: 10px;
 		font-weight: 400;
 	}
-	
-	.statelaws_header_seal_extra { 
-        margin-bottom: 5px; 
+
+	.statelaws_header_seal_extra {
+        margin-bottom: 5px;
         width: 350px;
         text-align: left;
         box-shadow: 0 7px 16px 0 rgba(57, 76, 93, .3);
 	}
-	
+
     .btn-show {
         border: 2px solid #0d3759 !important;
         color: #0d3759;
@@ -3096,7 +3096,7 @@ width: 100%;
 color: #000;
 text-decoration:none;
 	}
-	
+
 	.statelaw_single_state img {
 		width: 100px;
         box-shadow: 0 7px 16px 0 rgba(57, 76, 93, .3);
@@ -3108,7 +3108,7 @@ text-decoration:none;
             transform: scale(1.025);
             filter: none;
 	}
-	
+
 	.statelaws_blue
 	{
 		background-color: #0d3759;
@@ -3117,7 +3117,7 @@ text-decoration:none;
 		padding-top: 60px;
 		padding-bottom: 60px;
 	}
-	
+
 	.statelaws_blue_content
 	{
 		color: #FFF;
@@ -3129,7 +3129,7 @@ text-decoration:none;
 		font-weight: 300;
         width:900px;
 	}
-	
+
 	.statelaws_mainheader_large_state
 	{
 		font-size: 32px;
@@ -3139,7 +3139,7 @@ text-decoration:none;
         text-align: left;
         letter-spacing: 1px;
 	}
-	
+
 	.statelaws_mainheader_small_state
 	{
 		font-size: 32px;
@@ -3149,7 +3149,7 @@ text-decoration:none;
                 letter-spacing: 1px;
 
 	}
-	
+
 	.statelaws_singlestate_subhead
 	{
 		padding-top: 30px;
@@ -3159,15 +3159,15 @@ text-decoration:none;
 		font-size: 18px;
         font-family: 'Helvetica Neue', Helvetica, sans-serif;
 	}
-	
+
 	.statelaws_singlestate_subhead_1 { font-weight: 700; }
-	
+
 	.statelaws_singlestate_subhead_wrap
 	{
 		margin-right: auto;
 		margin-left: auto;
 	}
-	
+
 	.statelaws_row
 	{
 		width: 100%;
@@ -3176,7 +3176,7 @@ text-decoration:none;
 		display: inline-block;
 		padding-bottom: 0px;
 	}
-	
+
 	.statelaws_row_last
 	{
 		width: 100%;
@@ -3186,7 +3186,7 @@ text-decoration:none;
 		padding-top: 50px;
 		padding-bottom: 50px;
 	}
-	
+
 	.statelaws_thelaw
 	{
 		font-size: 21px;
@@ -3200,12 +3200,12 @@ text-decoration:none;
 	}
 
    .statelaws_thelaw p {
-        font-size:14px; 
+        font-size:14px;
         color: #999;
         margin: 0px;
         padding: 0px;
     }
-	
+
 	.statelaws_thelaw_description
 	{
 		float: left;
@@ -3222,7 +3222,7 @@ text-decoration:none;
     .viewbill a:hover {
         text-decoration: none;
         color: #9d529b;
-    } 
+    }
     .lawbtns {
         text-align: center;
     }
@@ -3235,7 +3235,7 @@ text-decoration:none;
     #map2{
         margin-left:auto;
         margin-right:auto;
-        width: 900px; 
+        width: 900px;
         height:552px;
         margin-top:30px;
     }
@@ -7827,7 +7827,7 @@ path{
 
 
 
-    
+
 /*Criminal Monitoring========================================*/
 
 .no_right_rule { border-right: 0px !important; }
@@ -8277,8 +8277,8 @@ width:100%;
 
         display:block;
 
-        
-        
+
+
     }
     .bs_greyarea_icon_1:after {
 
@@ -8300,8 +8300,8 @@ display: block;
 
         display:block;
 
-        
-        
+
+
     }
     .bs_greyarea_icon_2:after {
 
@@ -8487,7 +8487,7 @@ font-size: 34px;
     background-color: #0d3759;
 }
 
-  
+
 .bs_contact_account_wrap
 {
 	width: 1100px;
@@ -8589,12 +8589,12 @@ font-size: 34px;
 		margin-top: 0px;
 		height: 409px;
         vertical-align:middle;
-        
+
 	}
     .career_header_wrap
     {
         display:table-cell;
-        
+
         text-align: center;
         vertical-align:middle;
             background-color: rgba(0, 0, 0, 0.28);
@@ -8680,21 +8680,21 @@ font-size: 34px;
        padding-left:20px;
        width:600px;
    }
-	
+
       .career_location
    {
        float:left;
-       
+
    }
 
             .career_location img
    {
        float:left;
        padding-right:10px;
-       
+
    }
-	
-	
+
+
                 .careers_listings
     {
         margin-bottom:120px;
@@ -8714,7 +8714,7 @@ font-size: 34px;
 }
 .career_listing_page_header_state
 {
-    
+
     font-size:14px;
     line-height:16px;
         font-weight: 400;
@@ -8788,12 +8788,12 @@ font-size: 34px;
         }
 
         .su_body .input-box { position: relative;}
-        .su_body .unit { 
-            position: absolute; 
-            display: block; 
+        .su_body .unit {
+            position: absolute;
+            display: block;
             /*left: 10px; */
-            top: 3px; 
-            z-index: 9; 
+            top: 3px;
+            z-index: 9;
             font-size: 12px;
             color: #555;
             width: 340px;
@@ -9085,8 +9085,8 @@ font-size: 34px;
       margin-top: -55px;
       text-align: center;
   }
-  
-  
+
+
 .hm_top .laptop
 {
 	height: 936px;
@@ -9100,7 +9100,7 @@ font-size: 34px;
 	overflow: hidden;
 	left: 350px;
 }
-  
+
   .hm_top .laptop_wrap
 {
 	height: 560px;
@@ -9117,13 +9117,13 @@ font-size: 34px;
   	/* width:1200px; */
   	/* height: 740px; */
   }
-  
+
   .hm_top_man
   {
   display:inline-block;
   margin-top:75px
   }
-  
+
   .hm_top_header
   {
   	font-weight: 200;
@@ -9153,7 +9153,7 @@ font-size: 34px;
     .hm_promo_btn a {
       color: #0d3759;
   }
-  
+
   .very_bold
   {
   font-weight:700;
@@ -9174,7 +9174,7 @@ font-size: 34px;
       background-color: #eee;
       width: 100%;
   }
-  
+
       .hm_btn_signup {
         border: none;
         display: inline-block !important;
@@ -9204,9 +9204,9 @@ font-size: 34px;
             color: #fff;
             border: 1px solid #fff;
     }
-  
-  
-  
+
+
+
   .hm_certification_logos
   {
   border-top: 1px solid #fff;
@@ -9214,18 +9214,18 @@ font-size: 34px;
   margin-top:25px;
   text-align: center;
   }
-  
+
   .hm_napbs_block
   {
   /* width:500px; */
   clear:both;
   margin-bottom:30px;
-  display:inline-block; 
+  display:inline-block;
   margin-left: auto;
   margin-right: 15px;
 
   }
-  
+
     .hm_soc2_block
   {
   /* width:500px; */
@@ -9235,7 +9235,7 @@ font-size: 34px;
   margin-left: auto;
   margin-right: 15px;
   }
-  
+
   .hm_certification_col1
   {
   	display: table-cell;
@@ -9249,7 +9249,7 @@ font-size: 34px;
   .hm_certification_col1:hover {
       filter: none;
   }
-  
+
     .hm_certification_col2
   {
   display:table-cell;
@@ -9259,13 +9259,13 @@ font-size: 34px;
   color:#fff;
   font-weight: 200;
   }
-  
+
       .hm_certification_col2 a
       {
       	color: #fff;
       	text-decoration: none;
       }
-  
+
   .hm_20years_section
   {
   	width: 100%;
@@ -9277,7 +9277,7 @@ font-size: 34px;
             padding-top:30px;
       padding-bottom:30px;
   }
-  
+
   .hm_20years_section_wrap
   {
   	text-align: left;
@@ -9298,7 +9298,7 @@ font-size: 34px;
 
   	margin-right: 15px;
   }
-  
+
   .hm_sub_nav
   {
   	background-color: #eee;
@@ -9309,8 +9309,8 @@ font-size: 34px;
   	padding-top: 10px;
   	padding-bottom: 10px;
   }
-  
-  
+
+
   .hm_sub_nav_txt
   {
   	list-style-type: none;
@@ -9322,7 +9322,7 @@ font-size: 34px;
           margin: 0px auto;
 
   }
-    
+
       .hm_sub_nav_txt li
   {
   /* float:left; */
@@ -9334,13 +9334,13 @@ padding: 10px;
     margin: 0px auto;
     vertical-align: top;
   }
-    
+
 .hm_sub_nav_txt li:last-child
   {
   /* float:left; */
   border-right:0px;
   }
-  
+
       .hm_sub_nav_txt li a
       {
       	color: #0d3759;
@@ -9349,13 +9349,13 @@ padding: 10px;
           line-height:20px;
       	font-weight:300;
       }
-      
+
             .hm_sub_nav_txt li a:hover
       {
       	color: #0d3759;
-      
+
       }
-   
+
 
     .banner-main {
         background-image: url(../../content.backgroundsonline.com/images/sites/bgo/HM_Main_1.jpg);
@@ -9894,7 +9894,7 @@ padding: 10px;
     }
 
     #home .blog_area {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/background_blog.jpg);  
+        background-image: url(/assets/img/sites/bgo/background_blog.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -11089,7 +11089,7 @@ padding: 10px;
     /* STATE LAWS ======================================================= */
 
 
-	
+
 	#statelaws .main-top-background
 	{
 		background-repeat: no-repeat;
@@ -11128,7 +11128,7 @@ padding: 10px;
     }
 
 	.main_statelaws { background-image: url(../../content.backgroundsonline.com/images/sites/bgo/statelaws_top_photo.jpg); }
-	
+
 	.statelaws_main-area-content
 	{
     margin-top: 0px;
@@ -11147,7 +11147,7 @@ padding: 10px;
     background-position: center bottom;
     color: #fff;
 	}
-	
+
 	.statelaws_main-area-width
 	{
 		text-align: left;
@@ -11181,7 +11181,7 @@ padding: 10px;
 		color: #9b4899;
 		font-weight: 200;
 	}
-	
+
 	.statelaws_state_slection
 	{
     background-color: #f1efef;
@@ -11193,7 +11193,7 @@ padding: 10px;
     text-align: center;
     border-bottom: 1px solid #c3c3c3;
 	}
-	
+
 	.statelaws_main-area-content_b
 	{
 		display: block;
@@ -11204,13 +11204,13 @@ padding: 10px;
 		padding-top: 30px;
 		font-weight: 400;
 	}
-	
-	.statelaws_header_seal_extra {        
-        margin-bottom: 5px; 
+
+	.statelaws_header_seal_extra {
+        margin-bottom: 5px;
         width: 350px;
         text-align: left;
         box-shadow: 0 7px 16px 0 rgba(57, 76, 93, .3); }
-	
+
 	.statelaw_single_state
 	{
 		border-right: none;
@@ -11236,7 +11236,7 @@ padding: 10px;
 color: #000;
 text-decoration:none;
 	}
-	
+
 		.statelaw_single_state img {
 		width: 100px;
         box-shadow: 0 7px 16px 0 rgba(57, 76, 93, .3);
@@ -11248,7 +11248,7 @@ text-decoration:none;
             transform: scale(1.025);
             filter: none;
 	}
-	
+
 	.statelaws_blue
 	{
 		background-color: #0d3759;
@@ -11257,7 +11257,7 @@ text-decoration:none;
 		padding-top: 60px;
 		padding-bottom: 60px;
 	}
-	
+
 	.statelaws_blue_content
 	{
 		color: #FFF;
@@ -11269,20 +11269,20 @@ text-decoration:none;
 		text-align: center;
 		font-weight: 300;
 	}
-	
+
 	.statelaws_mainheader_large_state
 	{
 		font-size: 48px;
 		font-weight: 700;
 		display: inline-block;
 	}
-	
+
 	.statelaws_mainheader_small_state
 	{
 		font-size: 32px;
 		display: block;
 	}
-	
+
 	.statelaws_singlestate_subhead
 	{
 		background-color: #f1efef;
@@ -11293,16 +11293,16 @@ text-decoration:none;
 		width: 100%;
 		font-size: 18px;
 	}
-	
+
 	.statelaws_singlestate_subhead_1 { font-weight: 700; }
-	
+
 	.statelaws_singlestate_subhead_wrap
 	{
 		width: 650px;
 		margin-right: auto;
 		margin-left: auto;
 	}
-	
+
 	.statelaws_row
 	{
 		width: 100%;
@@ -11312,7 +11312,7 @@ text-decoration:none;
 		padding-top: 20px;
 		padding-bottom: 20px;
 	}
-	
+
 	.statelaws_row_last
 	{
 		width: 100%;
@@ -11322,7 +11322,7 @@ text-decoration:none;
 		padding-top: 20px;
 		padding-bottom: 20px;
 	}
-	
+
 	.statelaws_thelaw
 	{
 		font-size: 21px;
@@ -11336,12 +11336,12 @@ text-decoration:none;
 	}
 
    .statelaws_thelaw p {
-        font-size:14px; 
+        font-size:14px;
         color: #999;
         margin: 0px;
         padding: 0px;
     }
-	
+
 	.statelaws_thelaw_description
 	{
 		float: left;
@@ -11358,7 +11358,7 @@ text-decoration:none;
     .viewbill a:hover {
         text-decoration: none;
         color: #9d529b;
-    } 
+    }
     .lawbtns {
         text-align: center;
     }
@@ -11372,7 +11372,7 @@ text-decoration:none;
     #map2{
         margin-left:auto;
         margin-right:auto;
-        width: 100%; 
+        width: 100%;
         height: auto;
         margin-top:30px;
     }
@@ -14073,7 +14073,7 @@ path{
         margin-left: -10px;
     }
 
-   
+
 
     /* Thank You ============================================ */
     #thankyou .main-top-background {
@@ -16031,8 +16031,8 @@ path{
         font-size: 24px;
     }
 
-    
-    
+
+
 
 
 .ty1{
@@ -16079,7 +16079,7 @@ clear:both;
 .cm_main_image
 {
 	width: 100%;
-	
+
 	display: inline-block;
 	vertical-align: top;
 	background-image: url(../../content.backgroundsonline.com/images/sites/bgo/cm_background_top.jpg);
@@ -16094,14 +16094,14 @@ clear:both;
 
 .cm_wrap
 {
-	
+
 	margin-right: 0px;
 	margin-left: 0px;
 }
 
 .cm_header
 {
-    
+
     width: 100%;
     margin-right: auto;
     margin-left: auto;
@@ -16143,7 +16143,7 @@ clear:both;
 
 .cm_header_provides
 {
-   
+
     margin-right: auto;
     margin-left: auto;
     text-align: center;
@@ -16548,8 +16548,8 @@ width:100%;
 
         display:block;
 
-        
-        
+
+
     }
     .bs_greyarea_icon_1:after {
 
@@ -16571,8 +16571,8 @@ width:100%;
 
         display:block;
 
-        
-        
+
+
     }
     .bs_greyarea_icon_2:after {
 
@@ -16757,7 +16757,7 @@ font-size: 34px;
     background-color: #0d3759;
 }
 
-  
+
 .bs_contact_account_wrap
 {
 
@@ -16859,11 +16859,11 @@ font-size: 34px;
 		margin-top: 0px;
 
         vertical-align:middle;
-        
+
 	}
     .career_header_wrap
     {
-        
+
     text-align: center;
     vertical-align: middle;
     background-color: rgba(0,0,0,.28);
@@ -16882,7 +16882,7 @@ font-size: 34px;
 
     .careers_header_copy
     {
-        
+
         margin-left:20px;
         margin-right:20px;
         font-size:18px;
@@ -16894,7 +16894,7 @@ font-size: 34px;
 
     .careers_body_wrap
     {
-        
+
         margin-right:20px;
         margin-left:20px;
 
@@ -16952,21 +16952,21 @@ font-size: 34px;
     max-width: 450px;
     width: 100%;
    }
-	
+
       .career_location
    {
        float:left;
-       
+
    }
 
             .career_location img
    {
        float:left;
        padding-right:10px;
-       
+
    }
-	
-	
+
+
                 .careers_listings
     {
         margin-bottom:120px;
@@ -16987,7 +16987,7 @@ font-size: 34px;
 }
 .career_listing_page_header_state
 {
-    
+
     font-size:14px;
     line-height:16px;
         font-weight: 400;
@@ -17062,12 +17062,12 @@ font-size: 34px;
         }
 
         .su_body .input-box { position: relative;}
-        .su_body .unit { 
-            position: absolute; 
-            display: block; 
+        .su_body .unit {
+            position: absolute;
+            display: block;
             /*left: 10px; */
-            top: 3px; 
-            z-index: 9; 
+            top: 3px;
+            z-index: 9;
             font-size: 12px;
             color: #555;
             width: 100%;
@@ -17092,7 +17092,7 @@ font-size: 34px;
                 padding: 0px !important;
                 font-weight: 500;
             }
-            
+
             /*End*/.desktop, .hm_desktop {
         display: none;
     }
@@ -17365,8 +17365,8 @@ font-size: 34px;
   	padding-bottom: 10px;
       color: #0d3759;
   }
-  
-  
+
+
   .hm_sub_nav_txt
   {
   	list-style-type: none;
@@ -17376,7 +17376,7 @@ font-size: 34px;
   	/* margin-top:30px; */
   	text-align: center;
   }
-    
+
       .hm_sub_nav_txt li
   {
   /* float:left; */
@@ -17387,13 +17387,13 @@ padding: 10px;
     width: 100px;
     vertical-align: top;
   }
-    
+
 .hm_sub_nav_txt li:last-child
   {
   /* float:left; */
   border-right:0px;
   }
-  
+
       .hm_sub_nav_txt li a
       {
       	color: #0d3759;
@@ -17402,11 +17402,11 @@ padding: 10px;
           line-height:16px;
       	font-weight:300;
       }
-      
+
             .hm_sub_nav_txt li a:hover
       {
       	color: #0d3759;
-      
+
       }
             .hm_soc2_block, .hm_napbs_block {
                 display: inline-block;
@@ -17524,18 +17524,18 @@ padding: 10px;
             display: block;
         }
              .hm_promo_background {
-        background-color: #eee; 
-        border-radius:5px; 
-        text-align: center; 
-        margin:0px auto; 
-        font-size: 21px; 
-        color: #0d3759;  
+        background-color: #eee;
+        border-radius:5px;
+        text-align: center;
+        margin:0px auto;
+        font-size: 21px;
+        color: #0d3759;
         box-shadow: 2px 5px 20px #888;
         padding: 0px;
         width: 100%;
     }
     .hm_promo p {
-        margin:0px auto; 
+        margin:0px auto;
         font-size: 14px;
         line-height:18px;
     }
@@ -17543,13 +17543,13 @@ padding: 10px;
 padding: 5px;
     }
     .hm_promo_btn a {
-        background-color: transparent; 
-        padding: 5px 15px; 
-        border-radius:30px; 
+        background-color: transparent;
+        padding: 5px 15px;
+        border-radius:30px;
         border: 2px solid #0d3759;
-        color: #0d3759; 
-        width: 100px; 
-        display: inline-block; 
+        color: #0d3759;
+        width: 100px;
+        display: inline-block;
         font-size:16px;
         font-weight: 400 !important;
         text-align: center;
@@ -17961,7 +17961,7 @@ padding: 5px;
     }
 
 .home_reviews_content {
-   
+
 
     font-size: 22px;
     line-height: 28px;
@@ -17978,7 +17978,7 @@ padding: 5px;
 
 
 .home_reviews_image img {
-   
+
     width:90%;
     margin-left:auto;
     margin-right:auto;
@@ -18073,7 +18073,7 @@ padding: 5px;
 
 
     #home .blog_area {
-        background-image: url(../../content.backgroundsonline.com/images/sites/bgo/background_blog.jpg);
+        background-image: url(/assets/img/sites/bgo/background_blog.jpg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -19291,7 +19291,7 @@ padding: 5px;
     /* STATE LAWS ======================================================= */
 
 
-	
+
 	#statelaws .main-top-background
 	{
 		background-repeat: no-repeat;
@@ -19330,7 +19330,7 @@ padding: 5px;
     }
 
 	.main_statelaws { background-image: url(../../content.backgroundsonline.com/images/sites/bgo/statelaws_top_photo.jpg); }
-	
+
 .statelaws_main-area-content
 	{
 		display: inline-block;
@@ -19349,7 +19349,7 @@ width: 100%;
     background-position: center bottom;
     color:#fff;
 	}
-	
+
 		.statelaws_main-area-width
 	{
 		text-align: left;
@@ -19359,7 +19359,7 @@ width: 100%;
     .glyphicon-chevron-right {
         color: #9d9d9d;
     }
-	
+
     .statelaw_header_a
     {
         font-size:28px;
@@ -19374,7 +19374,7 @@ width: 100%;
     color: #9b4899;
     font-weight: 200;
 	}
-	
+
 	.statelaws_state_slection
 	{
 		background-color: #f1efef;
@@ -19385,7 +19385,7 @@ width: 100%;
 		text-align: center;
             border-bottom: 1px solid #c3c3c3;
 	}
-	
+
 	.statelaws_main-area-content_b
 	{
 		display: block;
@@ -19396,14 +19396,14 @@ width: 100%;
 		padding-top: 30px;
 		font-weight: 400;
 	}
-	
-	.statelaws_header_seal_extra { 
-                margin-bottom: 5px; 
+
+	.statelaws_header_seal_extra {
+                margin-bottom: 5px;
         width: 250px;
         text-align: left;
         box-shadow: 0 7px 16px 0 rgba(57, 76, 93, .3);
 	}
-	
+
 	.statelaw_single_state
 	{
 
@@ -19431,7 +19431,7 @@ width: 100%;
 color: #000;
 text-decoration:none;
 	}
-	
+
     	.statelaw_single_state img {
 		width: 100px;
         box-shadow: 0 7px 16px 0 rgba(57, 76, 93, .3);
@@ -19443,7 +19443,7 @@ text-decoration:none;
             transform: scale(1.025);
             filter: none;
 	}
-	
+
 	.statelaws_blue
 	{
 		background-color: #0d3759;
@@ -19452,7 +19452,7 @@ text-decoration:none;
 		padding-top: 30px;
 		padding-bottom: 30px;
 	}
-	
+
 	.statelaws_blue_content
 	{
 		color: #FFF;
@@ -19464,20 +19464,20 @@ text-decoration:none;
 		text-align: center;
 		font-weight: 300;
 	}
-	
+
 	.statelaws_mainheader_large_state
 	{
 		font-size: 36px;
 		font-weight: 700;
 		display: block;
 	}
-	
+
 	.statelaws_mainheader_small_state
 	{
 		font-size: 30px;
 		display: block;
 	}
-	
+
 	.statelaws_singlestate_subhead
 	{
 		text-align: left;
@@ -19487,16 +19487,16 @@ text-decoration:none;
 		width: 100%;
 		font-size: 16px;
 	}
-	
+
 	.statelaws_singlestate_subhead_1 { font-weight: 700; }
-	
+
 	.statelaws_singlestate_subhead_wrap
 	{
-		
+
 		margin-right: 15px;
 		margin-left: 15px;
 	}
-	
+
 	.statelaws_row
 	{
 		width: 100%;
@@ -19506,7 +19506,7 @@ text-decoration:none;
 		padding-top: 10px;
 		padding-bottom: 10px;
 	}
-	
+
 	.statelaws_row_last
 	{
 		width: 100%;
@@ -19516,7 +19516,7 @@ text-decoration:none;
 		padding-top: 10px;
 		padding-bottom: 10px;
 	}
-	
+
 		.statelaws_thelaw
 	{
 		font-size: 21px;
@@ -19528,12 +19528,12 @@ text-decoration:none;
 	}
 
    .statelaws_thelaw p {
-        font-size:14px; 
+        font-size:14px;
         color: #999;
         margin: 0px;
         padding: 0px;
     }
-	
+
 	.statelaws_thelaw_description
 	{
 		float: left;
@@ -19550,7 +19550,7 @@ text-decoration:none;
     .viewbill a:hover {
         text-decoration: none;
         color: #9d529b;
-    } 
+    }
     .lawbtns {
         text-align: center;
     }
@@ -19563,7 +19563,7 @@ text-decoration:none;
     #map2{
         margin-left:auto;
         margin-right:auto;
-        width: 100%; 
+        width: 100%;
         height: auto;
         margin-top:30px;
     }
@@ -19633,7 +19633,7 @@ path{
 
 
 
- 
+
     /* SOLUTIONS BY INDUSTRY ======================================================= */
 
     .sbi_btn_wrap {
@@ -24021,7 +24021,7 @@ path{
         line-height: 34px;
         font-weight: 300;
     }
-     
+
     .bgo20_bluearea_bold {
         font-weight: 600;
     }
@@ -24140,7 +24140,7 @@ path{
 {
 
     vertical-align: top;
-  
+
     text-align: center;
     font-weight: 500;
     padding: 25px 0px 25px 0px;
@@ -24172,7 +24172,7 @@ path{
 
 .cm_contact_account_wrap
 {
-	
+
 	margin-right: 15px;
 	margin-left: 15px;
 }
@@ -24355,8 +24355,8 @@ margin-bottom:30px;
 
 .cm_includes_laptop_text
 {
-    
-   
+
+
     /* float: right; */
     margin-top: 10px;
     font-size: 13px;
@@ -24392,7 +24392,7 @@ width:100%;
 .bs_main_image
 {
 	width: 100%;
-	
+
 	display: inline-block;
 	vertical-align: top;
 	background-image: url(../../content.backgroundsonline.com/images/sites/bgo/bs_background_top.jpg);
@@ -24505,8 +24505,8 @@ width:100%;
 
         display:block;
 
-        
-        
+
+
     }
     /*.bs_greyarea_icon_1:after {
 
@@ -24528,8 +24528,8 @@ display: block;
 
         display:block;
 
-        
-        
+
+
     }
 
     /*.bs_greyarea_icon_2:after {
@@ -24597,7 +24597,7 @@ display: block;
     }
 
     .bs_peoplescreen_copy {
- 
+
         padding-top: 10px;
     }
 
@@ -24645,7 +24645,7 @@ font-size: 28px;
 }
 
     .bs_yourteam_laptop {
-       
+
         display: block;
         width: 100%;
         height: 200px;
@@ -24690,7 +24690,7 @@ font-size: 28px;
     }
 
     .bs_yourteam_copy_item {
-        
+
         padding: 10px;
         border-left: 10px solid #fff;
                 font-size:16px;
@@ -24715,7 +24715,7 @@ font-size: 28px;
     background-color: #0d3759;
 }
 
-  
+
 .bs_contact_account_wrap
 {
 
@@ -24817,11 +24817,11 @@ font-size: 28px;
 		margin-top: 0px;
 
         vertical-align:middle;
-        
+
 	}
     .career_header_wrap
     {
-        
+
     text-align: center;
     vertical-align: middle;
     background-color: rgba(0,0,0,.28);
@@ -24840,7 +24840,7 @@ font-size: 28px;
 
     .careers_header_copy
     {
-        
+
         margin-left:20px;
         margin-right:20px;
         font-size:18px;
@@ -24852,7 +24852,7 @@ font-size: 28px;
 
     .careers_body_wrap
     {
-        
+
         margin-right:20px;
         margin-left:20px;
 
@@ -24912,7 +24912,7 @@ font-size: 28px;
     font-weight: 700;
     padding-bottom: 5px;
    }
-	
+
    .careers_listings_header_row .career_location
    {
        display:none;
@@ -24920,17 +24920,17 @@ font-size: 28px;
       .career_location
    {
        float:left;
-       
+
    }
 
             .career_location img
    {
        float:left;
        padding-right:10px;
-       
+
    }
-	
-	
+
+
                 .careers_listings
     {
         margin-bottom:60px;
@@ -24945,12 +24945,12 @@ font-size: 28px;
     margin-right:20px;
     margin-bottom:20px;
     font-size:23px;
-    line-height:24px;    
+    line-height:24px;
     font-weight: 600;
 }
 .career_listing_page_header_state
 {
-    
+
     font-size:14px;
     line-height:16px;
         font-weight: 400;
