@@ -1,1 +1,1 @@
-# duplicate-backgroundsonline
+# duplicate-backgroundsonline in hugo
