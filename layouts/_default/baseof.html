@@ -15,7 +15,7 @@
   {{ template "_internal/opengraph.html" . }}
   <!-- Site verification -->
   <!-- add googleAnalytics in config.toml -->
-
+  {{ partial "head" . }}
 
 </head>
 
@@ -25,6 +25,7 @@
   {{ block "main" . }}{{ end }}
   {{ block "footer" . }}{{ end }}
 
+  {{ partial "script" . }}
 </body>
 
 </html>
