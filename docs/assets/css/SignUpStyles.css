@@ -15,7 +15,7 @@
         label.label_radio {
             width: 20px;
             height: 20px;
-            background-image: url(/assets/img/sites/bgo/radio-off.gif);
+            background-image: url(assets/img/sites/bgo/radio-off.gif);
             background-repeat: no-repeat;
             display: inline-block;
             float: left;
@@ -27,7 +27,7 @@
         input[type="radio"]:checked + label.label_radio {
             width: 20px;
             height: 20px;
-            background-image: url(/assets/img/sites/bgo/radio-on.gif);
+            background-image: url(assets/img/sites/bgo/radio-on.gif);
             background-repeat: no-repeat;
             display: inline-block;
         }
@@ -40,7 +40,7 @@
         label.label_checkbox {
             width: 20px;
             height: 20px;
-            background-image: url(/assets/img/sites/bgo/form-checkbox-off.gif);
+            background-image: url(assets/img/sites/bgo/form-checkbox-off.gif);
             background-repeat: no-repeat;
             display: inline-block;
             float: left;
@@ -52,7 +52,7 @@
         input[type="checkbox"]:checked + label.label_checkbox {
             width: 20px;
             height: 20px;
-            background-image: url(/assets/img/sites/bgo/form-checkbox-on.gif);
+            background-image: url(assets/img/sites/bgo/form-checkbox-on.gif);
             background-repeat: no-repeat;
             display: inline-block;
         }
@@ -61,7 +61,7 @@
         .error_check {
             width: 20px;
             height: 20px;
-            background-image: url(/assets/img/sites/bgo/form-checkbox-off_error.gif) !important;
+            background-image: url(assets/img/sites/bgo/form-checkbox-off_error.gif) !important;
             background-repeat: no-repeat;
             float: left;
             margin-right: 5px;
@@ -117,14 +117,14 @@
   height: 65px;
   margin-right:5px;
   float:left;
-   background-image: url(/assets/img/sites/bgo/hex_togo.png);
+   background-image: url(assets/img/sites/bgo/hex_togo.png);
         background-repeat: no-repeat;
         background-position: center center;
 }
 
 .hexagon:hover {
 
-   background-image: url(/assets/img/sites/bgo/hex_on.png);
+   background-image: url(assets/img/sites/bgo/hex_on.png);
 
 }
 
@@ -210,7 +210,7 @@
     }
 
     .review_dropdown_edit {
-        background-image: url(/assets/img/sites/bgo/su_select_icon1.png) !important;
+        background-image: url(assets/img/sites/bgo/su_select_icon1.png) !important;
         background-repeat: no-repeat !important;
         background-size: 20px;
         font-family: "Source Sans Pro", sans-serif !important;
@@ -332,7 +332,7 @@
   height: 55px;
   margin-right:5px;
   float:left;
-  background-image: url(/assets/img/sites/bgo/hex_togo.png);
+  background-image: url(assets/img/sites/bgo/hex_togo.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 40px auto;
@@ -340,7 +340,7 @@
 
 .hexagon:hover {
 
-   background-image: url(/assets/img/sites/bgo/hex_on.png);
+   background-image: url(assets/img/sites/bgo/hex_on.png);
 
 }
 
@@ -422,7 +422,7 @@
     }
 
     .review_dropdown_edit {
-        background-image: url(/assets/img/sites/bgo/su_select_icon1.png) !important;
+        background-image: url(assets/img/sites/bgo/su_select_icon1.png) !important;
         background-repeat: no-repeat !important;
         background-size: 20px;
         font-family: "Source Sans Pro", sans-serif !important;
@@ -565,7 +565,7 @@ input:disabled, textarea:disabled, select:disabled {
   height: 55px;
   /* margin-right:5px; */
   /* float:left; */
-  background-image: url(/assets/img/sites/bgo/hex_togo.png);
+  background-image: url(assets/img/sites/bgo/hex_togo.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 40px auto;
@@ -574,7 +574,7 @@ input:disabled, textarea:disabled, select:disabled {
 
 .hexagon:hover {
 
-   background-image: url(/assets/img/sites/bgo/hex_on.png);
+   background-image: url(assets/img/sites/bgo/hex_on.png);
 
 }
 
@@ -659,7 +659,7 @@ input:disabled, textarea:disabled, select:disabled {
     }
 
     .review_dropdown_edit {
-        background-image: url(/assets/img/sites/bgo/su_select_icon1.png) !important;
+        background-image: url(assets/img/sites/bgo/su_select_icon1.png) !important;
         background-repeat: no-repeat !important;
         background-size: 20px;
         font-family: "Source Sans Pro", sans-serif !important;
