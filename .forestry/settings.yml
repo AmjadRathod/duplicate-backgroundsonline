@@ -5,6 +5,12 @@ admin_path: "./"
 webhook_url: 
 sections:
 - type: directory
+  path: ''
+  label: post
+  create: all
+  match: content/
+  new_doc_ext: ".md"
+- type: directory
   path: content/industry-background-check
   label: Industry background check
   create: all
