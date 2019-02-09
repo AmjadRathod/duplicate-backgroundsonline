@@ -26,3 +26,4 @@ fields:
   description: author name
 pages:
 - aaa/my-post.md
+- content/blog/one.md
