@@ -24,6 +24,17 @@ fields:
   name: author
   label: author
   description: author name
+- type: text
+  label: titke
+  name: titke
+  description: page title goes here
+- type: image_gallery
+  name: post-images
+  label: post-images
+  description: 'all other post images '
+- type: include
+  label: post content
+  name: post_content
 pages:
 - aaa/my-post.md
 - content/blog/one.md
