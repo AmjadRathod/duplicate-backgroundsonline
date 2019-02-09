@@ -38,4 +38,5 @@ fields:
 pages:
 - aaa/my-post.md
 - content/blog/one.md
+- content/blog/second/index.md
 - content/blog/second.md
