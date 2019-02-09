@@ -9,7 +9,7 @@ sections:
   label: post
   create: all
   match: content/
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: content/industry-background-check
   label: Industry background check
