@@ -8,4 +8,4 @@ titke = "ttt"
 [author]
 
 +++
-hi this is testing
+hi this is testing\[object ![](/uploads/martha_tesfalul.jpg)
