@@ -24,3 +24,5 @@ fields:
   name: author
   label: author
   description: author name
+pages:
+- aaa/my-post.md
