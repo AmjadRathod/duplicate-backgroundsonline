@@ -1,4 +1,3 @@
 baseURL = "duplicate-backgroundsonline/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-publishDir = "master"
