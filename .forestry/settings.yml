@@ -25,6 +25,7 @@ public_path: ''
 front_matter_path: ":filename"
 use_front_matter_path: true
 file_template: ":filename:"
+instant_preview: true
 build:
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
   publish_command: hugo -d public
@@ -36,4 +37,6 @@ build:
   - HUGO_VERSION=0.53
   preview_output_directory: public
   output_directory: public
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
 version: '0.53'

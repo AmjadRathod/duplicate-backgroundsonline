@@ -1,7 +1,6 @@
 ---
 label: blog-post
 hide_body: false
-is_partial: false
 fields:
 - type: file
   name: img
@@ -35,12 +34,3 @@ fields:
 - type: include
   label: post content
   name: post_content
-pages:
-- aaa/my-post.md
-- content/blog/one.md
-- content/blog/second/index.md
-- content/blog/second/abc.md
-- content/blog/second.md
-- content/blog/th/index.md
-- content/blog/aaa/index.md
-- content/blog/bbb/index.md
