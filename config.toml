@@ -1,4 +1,4 @@
-baseURL = "https://amjadrathod.github.io/duplicate-backgroundsonline/"
+baseURL = "https://arnaoutlab.tk/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-
+publishDir = "master"
