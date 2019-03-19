@@ -2,13 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>https://amjadrathod.github.io/tags/</link>
+    <link>https://amjadrathod.github.io/duplicate-backgroundsonline/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 08 Feb 2019 18:30:00 +0000</lastBuildDate>
     
-	<atom:link href="https://amjadrathod.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amjadrathod.github.io/duplicate-backgroundsonline/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A</title>
+      <link>https://amjadrathod.github.io/duplicate-backgroundsonline/tags/a/</link>
+      <pubDate>Fri, 08 Feb 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://amjadrathod.github.io/duplicate-backgroundsonline/tags/a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jh</title>
+      <link>https://amjadrathod.github.io/duplicate-backgroundsonline/tags/jh/</link>
+      <pubDate>Fri, 08 Feb 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://amjadrathod.github.io/duplicate-backgroundsonline/tags/jh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N</title>
+      <link>https://amjadrathod.github.io/duplicate-backgroundsonline/tags/n/</link>
+      <pubDate>Fri, 08 Feb 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://amjadrathod.github.io/duplicate-backgroundsonline/tags/n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ww</title>
+      <link>https://amjadrathod.github.io/duplicate-backgroundsonline/tags/ww/</link>
+      <pubDate>Fri, 08 Feb 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://amjadrathod.github.io/duplicate-backgroundsonline/tags/ww/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z</title>
+      <link>https://amjadrathod.github.io/duplicate-backgroundsonline/tags/z/</link>
+      <pubDate>Fri, 08 Feb 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://amjadrathod.github.io/duplicate-backgroundsonline/tags/z/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
